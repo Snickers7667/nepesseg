@@ -1,0 +1,3178 @@
+megyekod;Település;tipus;ferfi;no
+BUD;Budapest 01;fővárosi kerület;11 799;13 580
+BUD;Budapest 02;fővárosi kerület;38 659;45 138
+BUD;Budapest 03;fővárosi kerület;56 110;65 452
+BUD;Budapest 04;fővárosi kerület;41 788;49 026
+BUD;Budapest 05;fővárosi kerület;11 812;12 528
+BUD;Budapest 06;fővárosi kerület;16 897;18 104
+BUD;Budapest 07;fővárosi kerület;22 691;24 482
+BUD;Budapest 08;fővárosi kerület;34 080;33 739
+BUD;Budapest 09;fővárosi kerület;25 519;26 827
+BUD;Budapest 10;fővárosi kerület;31 874;35 821
+BUD;Budapest 11;fővárosi kerület;60 248;69 486
+BUD;Budapest 12;fővárosi kerület;25 145;29 856
+BUD;Budapest 13;fővárosi kerület;55 297;61 587
+BUD;Budapest 14;fővárosi kerület;50 536;59 920
+BUD;Budapest 15;fővárosi kerület;34 319;39 316
+BUD;Budapest 16;fővárosi kerület;33 650;37 925
+BUD;Budapest 17;fővárosi kerület;40 335;44 960
+BUD;Budapest 18;fővárosi kerület;46 499;51 522
+BUD;Budapest 19;fővárosi kerület;25 360;29 108
+BUD;Budapest 20;fővárosi kerület;28 411;31 433
+BUD;Budapest 21;fővárosi kerület;31 923;35 978
+BUD;Budapest 22;fővárosi kerület;26 456;28 676
+BUD;Budapest 23;fővárosi kerület;11 055;11 314
+BAC;Kecskemét;vármegye székhely;50 783;55 943
+BAC;Baja;vármegyei jogú város;15 857;17 853
+BAC;Bácsalmás;város;3 103;3 222
+BAC;Dunavecse;város;2 018;2 098
+BAC;Hajós;város;1 383;1 533
+BAC;Izsák;város;2 821;2 985
+BAC;Jánoshalma;város;4 156;4 268
+BAC;Kalocsa;város;7 028;7 750
+BAC;Kecel;város;4 056;4 228
+BAC;Kerekegyháza;város;3 357;3 380
+BAC;Kiskőrös;város;6 443;7 175
+BAC;Kiskunfélegyháza;város;13 817;15 039
+BAC;Kiskunhalas;város;12 693;13 755
+BAC;Kiskunmajsa;város;5 375;5 810
+BAC;Kunszentmiklós;város;4 057;4 223
+BAC;Lajosmizse;város;6 033;6 044
+BAC;Mélykút;város;2 447;2 491
+BAC;Solt;város;3 064;3 141
+BAC;Soltvadkert;város;3 493;3 655
+BAC;Szabadszállás;város;2 991;3 174
+BAC;Tiszakécske;város;5 676;5 836
+BAC;Tompa;város;2 255;2 232
+BAC;Bácsbokod;nagyközség;1 246;1 256
+BAC;Bugac;nagyközség;1 352;1 400
+BAC;Dunapataj;nagyközség;1 553;1 610
+BAC;Harta;nagyközség;1 599;1 686
+BAC;Helvécia;nagyközség;2 722;2 719
+BAC;Lakitelek;nagyközség;2 506;2 530
+BAC;Sükösd;nagyközség;1 797;1 843
+BAC;Tiszaalpár;nagyközség;2 470;2 500
+BAC;Ágasegyháza;község;1 013;993
+BAC;Akasztó;község;1 631;1 670
+BAC;Apostag;község;1 105;1 051
+BAC;Bácsborsód;község;526;544
+BAC;Bácsszentgyörgy;község;73;67
+BAC;Bácsszőlős;község;167;150
+BAC;Ballószög;község;2 294;2 239
+BAC;Balotaszállás;község;718;775
+BAC;Bátmonostor;község;776;777
+BAC;Bátya;község;991;979
+BAC;Bócsa;község;981;943
+BAC;Borota;község;610;611
+BAC;Bugacpusztaháza;község;140;130
+BAC;Császártöltés;község;1 075;1 142
+BAC;Csátalja;község;706;710
+BAC;Csávoly;község;831;893
+BAC;Csengőd;község;1 034;1 109
+BAC;Csikéria;község;363;373
+BAC;Csólyospálos;község;808;824
+BAC;Dávod;község;994;1 030
+BAC;Drágszél;község;161;154
+BAC;Dunaegyháza;község;777;750
+BAC;Dunafalva;község;448;440
+BAC;Dunaszentbenedek;község;401;397
+BAC;Dunatetétlen;község;282;267
+BAC;Dusnok;község;1 423;1 487
+BAC;Érsekcsanád;község;1 493;1 500
+BAC;Érsekhalma;község;297;299
+BAC;Fajsz;község;809;827
+BAC;Felsőlajos;község;521;501
+BAC;Felsőszentiván;község;901;965
+BAC;Foktő;község;706;759
+BAC;Fülöpháza;község;453;443
+BAC;Fülöpjakab;község;623;584
+BAC;Fülöpszállás;község;1 167;1 210
+BAC;Gara;község;1 072;1 103
+BAC;Gátér;község;447;434
+BAC;Géderlak;község;444;507
+BAC;Harkakötöny;község;381;395
+BAC;Hercegszántó;község;941;962
+BAC;Homokmégy;község;625;647
+BAC;Imrehegy;község;326;305
+BAC;Jakabszállás;község;1 342;1 434
+BAC;Jászszentlászló;község;1 241;1 287
+BAC;Kaskantyú;község;508;458
+BAC;Katymár;község;822;877
+BAC;Kelebia;község;1 217;1 219
+BAC;Kéleshalom;község;224;216
+BAC;Kisszállás;község;1 149;1 181
+BAC;Kömpöc;község;342;360
+BAC;Kunadacs;község;722;720
+BAC;Kunbaja;község;717;767
+BAC;Kunbaracs;község;336;382
+BAC;Kunfehértó;község;1 121;1 166
+BAC;Kunpeszér;község;401;380
+BAC;Kunszállás;község;890;938
+BAC;Ladánybene;község;909;868
+BAC;Madaras;község;1 374;1 396
+BAC;Mátételke;község;251;242
+BAC;Miske;község;831;857
+BAC;Móricgát;község;224;220
+BAC;Nagybaracska;község;1 078;1 101
+BAC;Nemesnádudvar;község;877;885
+BAC;Nyárlőrinc;község;1 169;1 155
+BAC;Ordas;község;217;238
+BAC;Orgovány;község;1 699;1 749
+BAC;Öregcsertő;község;384;370
+BAC;Páhi;község;611;592
+BAC;Pálmonostora;község;896;885
+BAC;Petőfiszállás;község;754;750
+BAC;Pirtó;község;447;429
+BAC;Rém;község;622;658
+BAC;Soltszentimre;község;692;663
+BAC;Szakmár;község;600;590
+BAC;Szalkszentmárton;község;1 493;1 471
+BAC;Szank;község;1 172;1 179
+BAC;Szentkirály;község;993;971
+BAC;Szeremle;község;683;663
+BAC;Tabdi;község;527;528
+BAC;Tass;község;1 475;1 472
+BAC;Tataháza;község;600;607
+BAC;Tázlár;község;864;876
+BAC;Tiszaug;község;469;462
+BAC;Újsolt;község;83;87
+BAC;Újtelek;község;188;190
+BAC;Uszód;község;419;482
+BAC;Városföld;község;1 089;1 169
+BAC;Vaskút;község;1 640;1 719
+BAC;Zsana;község;357;350
+BAR;Pécs;vármegye székhely;64 429;74 610
+BAR;Bóly;város;1 772;1 910
+BAR;Harkány;város;2 646;2 895
+BAR;Komló;város;11 153;12 220
+BAR;Kozármisleny;város;3 474;3 562
+BAR;Mágocs;város;1 146;1 129
+BAR;Mohács;város;8 493;9 432
+BAR;Pécsvárad;város;1 915;2 045
+BAR;Sásd;város;1 440;1 528
+BAR;Sellye;város;1 206;1 297
+BAR;Siklós;város;4 289;4 899
+BAR;Szentlőrinc;város;2 933;3 160
+BAR;Szigetvár;város;4 620;5 071
+BAR;Villány;város;1 030;1 089
+BAR;Beremend;nagyközség;1 128;1 183
+BAR;Szászvár;nagyközség;1 155;1 183
+BAR;Vajszló;nagyközség;815;886
+BAR;Abaliget;község;331;296
+BAR;Adorjás;község;90;87
+BAR;Ág;község;89;89
+BAR;Almamellék;község;204;192
+BAR;Almáskeresztúr;község;41;42
+BAR;Alsómocsolád;község;140;154
+BAR;Alsószentmárton;község;634;577
+BAR;Apátvarasd;község;68;55
+BAR;Aranyosgadány;község;197;171
+BAR;Áta;község;90;90
+BAR;Babarc;község;347;380
+BAR;Babarcszőlős;község;56;52
+BAR;Bakóca;község;138;151
+BAR;Bakonya;község;191;213
+BAR;Baksa;község;414;415
+BAR;Bánfa;község;96;96
+BAR;Bár;község;308;301
+BAR;Baranyahídvég;község;99;80
+BAR;Baranyajenő;község;236;241
+BAR;Baranyaszentgyörgy;község;62;60
+BAR;Basal;község;113;113
+BAR;Belvárdgyula;község;186;205
+BAR;Berkesd;község;427;407
+BAR;Besence;község;67;52
+BAR;Bezedek;község;97;111
+BAR;Bicsérd;község;529;520
+BAR;Bikal;község;345;345
+BAR;Birján;község;281;266
+BAR;Bisse;község;120;113
+BAR;Boda;község;238;224
+BAR;Bodolyabér;község;124;114
+BAR;Bogád;község;597;586
+BAR;Bogádmindszent;község;220;194
+BAR;Bogdása;község;127;133
+BAR;Boldogasszonyfa;község;226;202
+BAR;Borjád;község;224;196
+BAR;Bosta;község;69;74
+BAR;Botykapeterd;község;180;181
+BAR;Bükkösd;község;553;543
+BAR;Bürüs;község;33;38
+BAR;Csányoszró;község;316;299
+BAR;Csarnóta;község;63;71
+BAR;Csebény;község;45;46
+BAR;Cserdi;község;210;200
+BAR;Cserkút;község;345;340
+BAR;Csertő;község;206;238
+BAR;Csonkamindszent;község;90;97
+BAR;Cún;község;109;95
+BAR;Dencsháza;község;292;268
+BAR;Dinnyeberki;község;46;40
+BAR;Diósviszló;község;335;329
+BAR;Drávacsehi;község;87;75
+BAR;Drávacsepely;község;110;90
+BAR;Drávafok;község;263;258
+BAR;Drávaiványi;község;85;93
+BAR;Drávakeresztúr;község;66;54
+BAR;Drávapalkonya;község;147;135
+BAR;Drávapiski;község;58;49
+BAR;Drávaszabolcs;község;359;344
+BAR;Drávaszerdahely;község;81;89
+BAR;Drávasztára;község;185;183
+BAR;Dunaszekcső;község;958;957
+BAR;Egerág;község;485;540
+BAR;Egyházasharaszti;község;180;185
+BAR;Egyházaskozár;község;347;392
+BAR;Ellend;község;128;129
+BAR;Endrőc;község;178;165
+BAR;Erdősmárok;község;54;40
+BAR;Erdősmecske;község;166;177
+BAR;Erzsébet;község;135;149
+BAR;Fazekasboda;község;101;91
+BAR;Feked;község;127;110
+BAR;Felsőegerszeg;község;64;64
+BAR;Felsőszentmárton;község;411;435
+BAR;Garé;község;158;152
+BAR;Gerde;község;264;276
+BAR;Gerényes;község;116;118
+BAR;Geresdlak;község;420;404
+BAR;Gilvánfa;község;203;174
+BAR;Gordisa;község;136;148
+BAR;Gödre;község;415;387
+BAR;Görcsöny;község;796;870
+BAR;Görcsönydoboka;község;167;189
+BAR;Gyód;község;403;395
+BAR;Gyöngyfa;község;74;65
+BAR;Gyöngyösmellék;község;163;148
+BAR;Hásságy;község;147;169
+BAR;Hegyhátmaróc;község;74;72
+BAR;Hegyszentmárton;község;198;215
+BAR;Helesfa;község;240;232
+BAR;Hetvehely;község;248;246
+BAR;Hidas;község;983;1 019
+BAR;Himesháza;község;483;536
+BAR;Hirics;község;140;109
+BAR;Hobol;község;463;508
+BAR;Homorúd;község;303;272
+BAR;Horváthertelend;község;35;29
+BAR;Hosszúhetény;község;1 778;1 751
+BAR;Husztót;község;29;34
+BAR;Ibafa;község;119;100
+BAR;Illocska;község;126;129
+BAR;Ipacsfa;község;98;103
+BAR;Ivánbattyán;község;51;54
+BAR;Ivándárda;község;104;101
+BAR;Kacsóta;község;135;141
+BAR;Kákics;község;100;102
+BAR;Kárász;község;152;164
+BAR;Kásád;község;137;142
+BAR;Katádfa;község;74;69
+BAR;Kátoly;község;151;154
+BAR;Kékesd;község;92;84
+BAR;Kémes;község;238;235
+BAR;Kemse;község;30;30
+BAR;Keszü;község;733;727
+BAR;Kétújfalu;község;327;354
+BAR;Királyegyháza;község;484;447
+BAR;Kisasszonyfa;község;102;105
+BAR;Kisbeszterce;község;39;41
+BAR;Kisbudmér;község;53;49
+BAR;Kisdér;község;67;62
+BAR;Kisdobsza;község;126;128
+BAR;Kishajmás;község;103;96
+BAR;Kisharsány;község;249;242
+BAR;Kisherend;község;115;99
+BAR;Kisjakabfalva;község;62;45
+BAR;Kiskassa;község;122;117
+BAR;Kislippó;község;153;138
+BAR;Kisnyárád;község;103;76
+BAR;Kisszentmárton;község;130;116
+BAR;Kistamási;község;66;67
+BAR;Kistapolca;község;110;97
+BAR;Kistótfalu;község;159;161
+BAR;Kisvaszar;község;181;150
+BAR;Kórós;község;107;92
+BAR;Kovácshida;község;125;108
+BAR;Kovácsszénája;község;43;33
+BAR;Köblény;község;115;104
+BAR;Kökény;község;342;345
+BAR;Kölked;község;496;517
+BAR;Kővágószőlős;község;707;731
+BAR;Kővágótöttös;község;163;183
+BAR;Lánycsók;község;1 208;1 229
+BAR;Lapáncsa;község;87;72
+BAR;Liget;község;196;190
+BAR;Lippó;község;244;265
+BAR;Liptód;község;95;94
+BAR;Lothárd;község;138;128
+BAR;Lovászhetény;község;163;140
+BAR;Lúzsok;község;112;107
+BAR;Magyarbóly;község;455;505
+BAR;Magyaregregy;község;347;391
+BAR;Magyarhertelend;község;319;307
+BAR;Magyarlukafa;község;57;53
+BAR;Magyarmecske;község;162;164
+BAR;Magyarsarlós;község;153;145
+BAR;Magyarszék;község;543;499
+BAR;Magyartelek;község;104;99
+BAR;Majs;község;453;475
+BAR;Mánfa;község;433;389
+BAR;Maráza;község;86;103
+BAR;Márfa;község;94;104
+BAR;Máriakéménd;község;269;255
+BAR;Markóc;község;32;34
+BAR;Marócsa;község;44;44
+BAR;Márok;község;192;214
+BAR;Martonfa;község;117;125
+BAR;Matty;község;167;174
+BAR;Máza;község;584;618
+BAR;Mecseknádasd;község;733;829
+BAR;Mecsekpölöske;község;205;192
+BAR;Mekényes;község;135;145
+BAR;Merenye;község;145;139
+BAR;Meződ;község;72;58
+BAR;Mindszentgodisa;község;386;386
+BAR;Molvány;község;94;83
+BAR;Monyoród;község;107;88
+BAR;Mozsgó;község;475;460
+BAR;Nagybudmér;község;76;83
+BAR;Nagycsány;község;66;58
+BAR;Nagydobsza;község;291;296
+BAR;Nagyhajmás;község;162;135
+BAR;Nagyharsány;község;710;747
+BAR;Nagykozár;község;1 042;1 085
+BAR;Nagynyárád;község;345;362
+BAR;Nagypall;község;175;193
+BAR;Nagypeterd;község;324;344
+BAR;Nagytótfalu;község;175;164
+BAR;Nagyváty;község;151;159
+BAR;Nemeske;község;104;116
+BAR;Nyugotszenterzsébet;község;119;130
+BAR;Óbánya;község;59;58
+BAR;Ócsárd;község;199;183
+BAR;Ófalu;község;182;185
+BAR;Okorág;község;81;71
+BAR;Okorvölgy;község;45;38
+BAR;Olasz;község;286;311
+BAR;Old;község;175;147
+BAR;Orfű;község;619;607
+BAR;Oroszló;község;151;157
+BAR;Ózdfalu;község;71;63
+BAR;Palé;község;52;43
+BAR;Palkonya;község;129;120
+BAR;Palotabozsok;község;407;426
+BAR;Páprád;község;68;92
+BAR;Patapoklosi;község;166;165
+BAR;Pécsbagota;község;60;41
+BAR;Pécsdevecser;község;47;61
+BAR;Pécsudvard;község;412;392
+BAR;Pellérd;község;1 249;1 192
+BAR;Pereked;község;90;81
+BAR;Peterd;község;112;105
+BAR;Pettend;község;85;86
+BAR;Piskó;község;131;99
+BAR;Pócsa;község;86;84
+BAR;Pogány;község;680;703
+BAR;Rádfalva;község;104;105
+BAR;Regenye;község;95;88
+BAR;Romonya;község;298;290
+BAR;Rózsafa;község;165;181
+BAR;Sámod;község;95;111
+BAR;Sárok;község;58;47
+BAR;Sátorhely;község;304;333
+BAR;Siklósbodony;község;82;80
+BAR;Siklósnagyfalu;község;206;219
+BAR;Somberek;község;658;750
+BAR;Somogyapáti;község;253;254
+BAR;Somogyhárságy;község;208;212
+BAR;Somogyhatvan;község;194;158
+BAR;Somogyviszló;község;112;114
+BAR;Sósvertike;község;86;69
+BAR;Sumony;község;223;223
+BAR;Szabadszentkirály;község;410;426
+BAR;Szágy;község;64;57
+BAR;Szajk;község;401;414
+BAR;Szalánta;község;605;649
+BAR;Szalatnak;község;148;159
+BAR;Szaporca;község;116;119
+BAR;Szárász;község;27;24
+BAR;Szava;község;179;169
+BAR;Szebény;község;173;169
+BAR;Szederkény;község;837;938
+BAR;Székelyszabar;község;290;287
+BAR;Szellő;község;74;69
+BAR;Szemely;község;242;247
+BAR;Szentdénes;község;166;170
+BAR;Szentegát;község;160;180
+BAR;Szentkatalin;község;58;56
+BAR;Szentlászló;község;392;411
+BAR;Szilágy;község;164;139
+BAR;Szilvás;község;66;81
+BAR;Szőke;község;63;59
+BAR;Szőkéd;község;182;185
+BAR;Szörény;község;38;34
+BAR;Szulimán;község;124;116
+BAR;Szűr;község;129;133
+BAR;Tarrós;község;48;62
+BAR;Tékes;község;116;101
+BAR;Teklafalu;község;150;166
+BAR;Tengeri;község;31;31
+BAR;Tésenfa;község;90;80
+BAR;Téseny;község;162;155
+BAR;Tófű;község;58;62
+BAR;Tormás;község;147;105
+BAR;Tótszentgyörgy;község;80;65
+BAR;Töttös;község;292;292
+BAR;Túrony;község;143;128
+BAR;Udvar;község;65;66
+BAR;Újpetre;község;515;512
+BAR;Várad;község;90;76
+BAR;Varga;község;41;41
+BAR;Vásárosbéc;község;126;100
+BAR;Vásárosdombó;község;519;524
+BAR;Vázsnok;község;67;57
+BAR;Vejti;község;73;74
+BAR;Vékény;község;90;69
+BAR;Velény;község;75;77
+BAR;Véménd;község;671;669
+BAR;Versend;község;455;486
+BAR;Villánykövesd;község;105;118
+BAR;Vokány;község;439;441
+BAR;Zádor;község;159;150
+BAR;Zaláta;község;134;113
+BAR;Zengővárkony;község;208;218
+BAR;Zók;község;135;143
+BEK;Békéscsaba;vármegye székhely;26 396;29 754
+BEK;Battonya;város;2 801;2 947
+BEK;Békés;város;8 995;9 382
+BEK;Csorvás;város;2 189;2 430
+BEK;Dévaványa;város;3 461;3 476
+BEK;Elek;város;2 250;2 361
+BEK;Füzesgyarmat;város;2 600;2 667
+BEK;Gyomaendrőd;város;6 169;6 644
+BEK;Gyula;város;13 732;15 211
+BEK;Kondoros;város;2 267;2 411
+BEK;Körösladány;város;2 094;2 177
+BEK;Medgyesegyháza;város;1 642;1 732
+BEK;Mezőberény;város;4 727;5 151
+BEK;Mezőhegyes;város;2 214;2 374
+BEK;Mezőkovácsháza;város;2 648;2 852
+BEK;Orosháza;város;12 764;13 841
+BEK;Sarkad;város;4 709;4 937
+BEK;Szarvas;város;7 020;7 556
+BEK;Szeghalom;város;4 114;4 172
+BEK;Tótkomlós;város;2 691;2 886
+BEK;Újkígyós;város;2 457;2 556
+BEK;Vésztő;város;3 364;3 244
+BEK;Békésszentandrás;nagyközség;1 777;1 756
+BEK;Csabacsűd;nagyközség;824;890
+BEK;Doboz;nagyközség;2 043;2 154
+BEK;Dombegyház;nagyközség;937;952
+BEK;Gádoros;nagyközség;1 750;1 774
+BEK;Kétegyháza;nagyközség;1 686;1 838
+BEK;Kevermes;nagyközség;843;873
+BEK;Nagyszénás;nagyközség;2 273;2 340
+BEK;Almáskamarás;község;396;367
+BEK;Békéssámson;község;1 165;1 120
+BEK;Bélmegyer;község;446;393
+BEK;Biharugra;község;429;410
+BEK;Bucsa;község;1 133;1 102
+BEK;Csabaszabadi;község;146;126
+BEK;Csanádapáca;község;1 195;1 245
+BEK;Csárdaszállás;község;211;204
+BEK;Dombiratos;község;242;269
+BEK;Ecsegfalva;község;558;561
+BEK;Gerendás;község;541;579
+BEK;Geszt;község;359;361
+BEK;Hunya;község;302;309
+BEK;Kamut;község;470;508
+BEK;Kardos;község;287;241
+BEK;Kardoskút;község;391;399
+BEK;Kaszaper;község;852;869
+BEK;Kertészsziget;község;172;147
+BEK;Kétsoprony;község;664;624
+BEK;Kisdombegyház;község;234;213
+BEK;Körösnagyharsány;község;278;268
+BEK;Köröstarcsa;község;1 170;1 167
+BEK;Körösújfalu;község;207;202
+BEK;Kötegyán;község;682;691
+BEK;Kunágota;község;1 260;1 255
+BEK;Lőkösháza;község;793;808
+BEK;Magyarbánhegyes;község;1 015;1 004
+BEK;Magyardombegyház;község;118;110
+BEK;Medgyesbodzás;község;481;427
+BEK;Méhkerék;község;1 023;1 029
+BEK;Mezőgyán;község;457;478
+BEK;Murony;község;589;576
+BEK;Nagybánhegyes;község;578;607
+BEK;Nagykamarás;község;558;601
+BEK;Okány;község;1 153;1 189
+BEK;Örménykút;község;146;149
+BEK;Pusztaföldvár;község;764;764
+BEK;Pusztaottlaka;község;174;167
+BEK;Sarkadkeresztúr;község;713;730
+BEK;Szabadkígyós;község;1 231;1 277
+BEK;Tarhos;község;384;402
+BEK;Telekgerendás;község;751;754
+BEK;Újszalonta;község;50;39
+BEK;Végegyháza;község;630;610
+BEK;Zsadány;község;825;733
+BOR;Miskolc;vármegye székhely;69 007;78 000
+BOR;Abaújszántó;város;1 387;1 418
+BOR;Alsózsolca;város;2 831;2 798
+BOR;Borsodnádasd;város;1 433;1 499
+BOR;Cigánd;város;1 566;1 528
+BOR;Edelény;város;4 598;4 932
+BOR;Emőd;város;2 519;2 514
+BOR;Encs;város;2 939;3 332
+BOR;Felsőzsolca;város;3 353;3 465
+BOR;Gönc;város;973;1 004
+BOR;Kazincbarcika;város;11 600;12 879
+BOR;Mezőcsát;város;2 897;2 914
+BOR;Mezőkeresztes;város;1 790;1 869
+BOR;Mezőkövesd;város;7 749;8 244
+BOR;Nyékládháza;város;2 493;2 645
+BOR;Onga;város;2 485;2 479
+BOR;Ózd;város;15 689;16 849
+BOR;Pálháza;város;506;558
+BOR;Putnok;város;3 262;3 391
+BOR;Rudabánya;város;1 258;1 237
+BOR;Sajóbábony;város;1 300;1 338
+BOR;Sajószentpéter;város;5 745;6 037
+BOR;Sárospatak;város;5 404;5 802
+BOR;Sátoraljaújhely;város;6 449;7 192
+BOR;Szendrő;város;1 964;2 105
+BOR;Szerencs;város;4 072;4 589
+BOR;Szikszó;város;2 551;2 861
+BOR;Tiszaújváros;város;6 788;7 672
+BOR;Tokaj;város;1 663;1 881
+BOR;Arló;nagyközség;1 806;1 843
+BOR;Izsófalva;nagyközség;862;830
+BOR;Múcsony;nagyközség;1 382;1 423
+BOR;Ricse;nagyközség;844;928
+BOR;Szentistván;nagyközség;1 202;1 275
+BOR;Szirmabesenyő;nagyközség;2 143;2 188
+BOR;Taktaharkány;nagyközség;1 784;1 822
+BOR;Tiszalúc;nagyközség;2 481;2 517
+BOR;Abaújalpár;község;35;40
+BOR;Abaújkér;község;285;317
+BOR;Abaújlak;község;40;35
+BOR;Abaújszolnok;község;125;126
+BOR;Abaújvár;község;139;117
+BOR;Abod;község;72;81
+BOR;Aggtelek;község;249;267
+BOR;Alacska;község;324;355
+BOR;Alsóberecki;község;373;374
+BOR;Alsódobsza;község;152;134
+BOR;Alsógagy;község;36;48
+BOR;Alsóregmec;község;99;101
+BOR;Alsószuha;község;203;216
+BOR;Alsótelekes;község;77;69
+BOR;Alsóvadász;község;785;790
+BOR;Arka;község;36;33
+BOR;Arnót;község;1 182;1 219
+BOR;Ároktő;község;567;598
+BOR;Aszaló;község;899;959
+BOR;Baktakék;község;410;412
+BOR;Balajt;község;261;246
+BOR;Bánhorváti;község;652;682
+BOR;Bánréve;község;577;629
+BOR;Baskó;község;82;92
+BOR;Becskeháza;község;16;19
+BOR;Bekecs;község;1 178;1 217
+BOR;Berente;község;495;573
+BOR;Beret;község;179;151
+BOR;Berzék;község;487;487
+BOR;Bodroghalom;község;629;651
+BOR;Bodrogkeresztúr;község;429;457
+BOR;Bodrogkisfalud;község;400;411
+BOR;Bodrogolaszi;község;434;457
+BOR;Bódvalenke;község;183;171
+BOR;Bódvarákó;község;38;35
+BOR;Bódvaszilas;község;471;524
+BOR;Bogács;község;1 015;1 122
+BOR;Boldogkőújfalu;község;321;331
+BOR;Boldogkőváralja;község;471;496
+BOR;Boldva;község;1 291;1 191
+BOR;Borsodbóta;község;402;425
+BOR;Borsodgeszt;község;137;134
+BOR;Borsodivánka;község;314;338
+BOR;Borsodszentgyörgy;község;538;572
+BOR;Borsodszirák;község;601;611
+BOR;Bózsva;község;97;111
+BOR;Bőcs;község;1 356;1 359
+BOR;Bükkábrány;község;761;876
+BOR;Bükkaranyos;község;761;815
+BOR;Bükkmogyorósd;község;60;72
+BOR;Bükkszentkereszt;község;582;577
+BOR;Bükkzsérc;község;450;510
+BOR;Büttös;község;75;77
+BOR;Csenyéte;község;306;298
+BOR;Cserépfalu;község;463;508
+BOR;Cserépváralja;község;190;175
+BOR;Csernely;község;402;347
+BOR;Csincse;község;240;277
+BOR;Csobád;község;330;347
+BOR;Csobaj;község;341;336
+BOR;Csokvaomány;község;376;350
+BOR;Damak;község;112;122
+BOR;Dámóc;község;168;178
+BOR;Debréte;község;7;8
+BOR;Dédestapolcsány;község;655;686
+BOR;Detek;község;133;122
+BOR;Domaháza;község;427;431
+BOR;Dövény;község;127;144
+BOR;Dubicsány;község;131;129
+BOR;Egerlövő;község;273;267
+BOR;Égerszög;község;28;28
+BOR;Erdőbénye;község;535;519
+BOR;Erdőhorváti;község;289;259
+BOR;Fáj;község;282;249
+BOR;Fancsal;község;169;170
+BOR;Farkaslyuk;község;1 015;974
+BOR;Felsőberecki;község;148;132
+BOR;Felsődobsza;község;422;489
+BOR;Felsőgagy;község;140;124
+BOR;Felsőkelecsény;község;202;191
+BOR;Felsőnyárád;község;465;497
+BOR;Felsőregmec;község;179;197
+BOR;Felsőtelekes;község;342;331
+BOR;Felsővadász;község;326;291
+BOR;Filkeháza;község;39;47
+BOR;Fony;község;160;151
+BOR;Forró;község;1 365;1 345
+BOR;Fulókércs;község;214;227
+BOR;Füzér;község;183;191
+BOR;Füzérkajata;község;67;62
+BOR;Füzérkomlós;község;156;148
+BOR;Füzérradvány;község;156;134
+BOR;Gadna;község;176;155
+BOR;Gagyapáti;község;21;22
+BOR;Gagybátor;község;117;105
+BOR;Gagyvendégi;község;110;100
+BOR;Galvács;község;42;49
+BOR;Garadna;község;182;184
+BOR;Gelej;község;286;282
+BOR;Gesztely;község;1 320;1 366
+BOR;Gibárt;község;167;199
+BOR;Girincs;község;450;482
+BOR;Golop;község;277;305
+BOR;Gömörszőlős;község;37;42
+BOR;Göncruszka;község;355;357
+BOR;Györgytarló;község;272;256
+BOR;Halmaj;község;756;850
+BOR;Hangács;község;294;297
+BOR;Hangony;község;730;754
+BOR;Háromhuta;község;66;76
+BOR;Harsány;község;991;993
+BOR;Hegymeg;község;50;63
+BOR;Hejce;község;140;125
+BOR;Hejőbába;község;986;963
+BOR;Hejőkeresztúr;község;528;517
+BOR;Hejőkürt;község;140;142
+BOR;Hejőpapi;község;549;525
+BOR;Hejőszalonta;község;419;409
+BOR;Hercegkút;község;311;339
+BOR;Hernádbűd;község;60;62
+BOR;Hernádcéce;község;133;137
+BOR;Hernádkak;község;845;798
+BOR;Hernádkércs;község;164;159
+BOR;Hernádnémeti;község;1 792;1 802
+BOR;Hernádpetri;község;125;131
+BOR;Hernádszentandrás;község;199;219
+BOR;Hernádszurdok;község;112;105
+BOR;Hernádvécse;község;572;521
+BOR;Hét;község;241;231
+BOR;Hidasnémeti;község;567;573
+BOR;Hidvégardó;község;271;286
+BOR;Hollóháza;község;394;436
+BOR;Homrogd;község;493;460
+BOR;Igrici;község;580;596
+BOR;Imola;község;43;49
+BOR;Ináncs;község;576;572
+BOR;Irota;község;38;48
+BOR;Jákfalva;község;285;247
+BOR;Járdánháza;község;865;938
+BOR;Jósvafő;község;127;136
+BOR;Kács;község;245;245
+BOR;Kánó;község;69;70
+BOR;Kány;község;43;35
+BOR;Karcsa;község;891;847
+BOR;Karos;község;267;269
+BOR;Kázsmárk;község;505;495
+BOR;Kéked;község;146;142
+BOR;Kelemér;község;224;211
+BOR;Kenézlő;község;587;584
+BOR;Keresztéte;község;29;23
+BOR;Kesznyéten;község;961;929
+BOR;Királd;község;327;355
+BOR;Kiscsécs;község;92;101
+BOR;Kisgyőr;község;806;843
+BOR;Kishuta;község;142;148
+BOR;Kiskinizs;község;172;166
+BOR;Kisrozvágy;község;114;123
+BOR;Kissikátor;község;141;156
+BOR;Kistokaj;község;1 235;1 257
+BOR;Komjáti;község;98;116
+BOR;Komlóska;község;130;120
+BOR;Kondó;község;277;292
+BOR;Korlát;község;159;153
+BOR;Kovácsvágás;község;307;316
+BOR;Köröm;község;774;741
+BOR;Krasznokvajda;község;246;239
+BOR;Kupa;község;81;83
+BOR;Kurityán;község;733;754
+BOR;Lácacséke;község;157;144
+BOR;Ládbesenyő;község;150;137
+BOR;Lak;község;340;325
+BOR;Legyesbénye;község;720;716
+BOR;Léh;község;233;228
+BOR;Lénárddaróc;község;116;146
+BOR;Litka;község;21;16
+BOR;Mád;község;929;1 014
+BOR;Makkoshotyka;község;399;420
+BOR;Mályi;község;2 250;2 224
+BOR;Mályinka;község;246;219
+BOR;Martonyi;község;150;181
+BOR;Megyaszó;község;1 323;1 318
+BOR;Méra;község;786;728
+BOR;Meszes;község;89;87
+BOR;Mezőnagymihály;község;487;500
+BOR;Mezőnyárád;község;780;838
+BOR;Mezőzombor;község;1 163;1 180
+BOR;Mikóháza;község;263;275
+BOR;Mogyoróska;község;48;58
+BOR;Monaj;község;148;124
+BOR;Monok;község;783;795
+BOR;Muhi;község;250;234
+BOR;Nagybarca;község;414;428
+BOR;Nagycsécs;község;428;389
+BOR;Nagyhuta;község;46;39
+BOR;Nagykinizs;község;158;152
+BOR;Nagyrozvágy;község;320;328
+BOR;Négyes;község;146;135
+BOR;Nekézseny;község;317;311
+BOR;Nemesbikk;község;458;461
+BOR;Novajidrány;község;656;650
+BOR;Nyésta;község;28;10
+BOR;Nyíri;község;219;207
+BOR;Nyomár;község;131;149
+BOR;Olaszliszka;község;778;804
+BOR;Ónod;község;1 190;1 161
+BOR;Ormosbánya;község;740;792
+BOR;Oszlár;község;155;166
+BOR;Pácin;község;771;743
+BOR;Pamlény;község;28;24
+BOR;Pányok;község;53;44
+BOR;Parasznya;község;588;601
+BOR;Pere;község;169;176
+BOR;Perecse;község;13;9
+BOR;Perkupa;község;398;375
+BOR;Prügy;község;1 261;1 258
+BOR;Pusztafalu;község;110;114
+BOR;Pusztaradvány;község;117;103
+BOR;Radostyán;község;284;292
+BOR;Ragály;község;301;310
+BOR;Rakaca;község;480;445
+BOR;Rakacaszend;község;142;153
+BOR;Rásonysápberencs;község;256;256
+BOR;Rátka;község;468;486
+BOR;Regéc;község;43;43
+BOR;Répáshuta;község;189;247
+BOR;Révleányvár;község;224;207
+BOR;Rudolftelep;község;348;374
+BOR;Sajóecseg;község;525;561
+BOR;Sajógalgóc;község;180;149
+BOR;Sajóhídvég;község;554;590
+BOR;Sajóivánka;község;321;339
+BOR;Sajókápolna;község;206;197
+BOR;Sajókaza;község;1 582;1 541
+BOR;Sajókeresztúr;község;777;803
+BOR;Sajólád;község;1 520;1 578
+BOR;Sajólászlófalva;község;222;236
+BOR;Sajómercse;község;107;106
+BOR;Sajónémeti;község;223;240
+BOR;Sajóörös;község;765;829
+BOR;Sajópálfala;község;373;387
+BOR;Sajópetri;község;721;811
+BOR;Sajópüspöki;község;254;248
+BOR;Sajósenye;község;213;174
+BOR;Sajószöged;község;1 179;1 173
+BOR;Sajóvámos;község;1 000;1 074
+BOR;Sajóvelezd;község;351;399
+BOR;Sály;község;803;852
+BOR;Sárazsadány;község;123;110
+BOR;Sáta;község;507;579
+BOR;Selyeb;község;249;254
+BOR;Semjén;község;314;254
+BOR;Serényfalva;község;489;478
+BOR;Sima;község;19;14
+BOR;Sóstófalva;község;126;131
+BOR;Szakácsi;község;126;102
+BOR;Szakáld;község;233;237
+BOR;Szalaszend;község;549;537
+BOR;Szalonna;község;511;494
+BOR;Szászfa;község;58;54
+BOR;Szegi;község;174;160
+BOR;Szegilong;község;104;123
+BOR;Szemere;község;210;192
+BOR;Szendrőlád;község;1 117;1 156
+BOR;Szentistvánbaksa;község;132;143
+BOR;Szin;község;418;396
+BOR;Szinpetri;község;100;103
+BOR;Szomolya;község;748;823
+BOR;Szögliget;község;290;298
+BOR;Szőlősardó;község;53;67
+BOR;Szuhafő;község;63;58
+BOR;Szuhakálló;község;485;521
+BOR;Szuhogy;község;543;524
+BOR;Taktabáj;község;283;298
+BOR;Taktakenéz;község;592;574
+BOR;Taktaszada;község;929;969
+BOR;Tállya;község;800;839
+BOR;Tarcal;község;1 272;1 471
+BOR;Tard;község;533;563
+BOR;Tardona;község;505;525
+BOR;Telkibánya;község;312;327
+BOR;Teresztenye;község;27;17
+BOR;Tibolddaróc;község;642;627
+BOR;Tiszabábolna;község;158;134
+BOR;Tiszacsermely;község;251;230
+BOR;Tiszadorogma;község;191;183
+BOR;Tiszakarád;község;1 190;1 148
+BOR;Tiszakeszi;község;1 264;1 291
+BOR;Tiszaladány;község;291;313
+BOR;Tiszapalkonya;község;739;714
+BOR;Tiszatardos;község;161;111
+BOR;Tiszatarján;község;727;736
+BOR;Tiszavalk;község;146;143
+BOR;Tolcsva;község;789;818
+BOR;Tomor;község;135;107
+BOR;Tornabarakony;község;20;17
+BOR;Tornakápolna;község;12;9
+BOR;Tornanádaska;község;423;393
+BOR;Tornaszentandrás;község;78;97
+BOR;Tornaszentjakab;község;103;101
+BOR;Tornyosnémeti;község;333;292
+BOR;Trizs;község;89;95
+BOR;Újcsanálos;község;418;378
+BOR;Uppony;község;134;150
+BOR;Vadna;község;320;330
+BOR;Vágáshuta;község;62;67
+BOR;Vajdácska;község;623;645
+BOR;Vámosújfalu;község;367;358
+BOR;Varbó;község;519;563
+BOR;Varbóc;község;37;21
+BOR;Vatta;község;454;420
+BOR;Vilmány;község;726;731
+BOR;Vilyvitány;község;156;155
+BOR;Viss;község;279;272
+BOR;Viszló;község;30;31
+BOR;Vizsoly;község;482;440
+BOR;Zádorfalva;község;205;269
+BOR;Zalkod;község;99;100
+BOR;Zemplénagárd;község;356;305
+BOR;Ziliz;község;199;210
+BOR;Zsujta;község;110;157
+BOR;Zubogy;község;252;233
+CSO;Szeged;vármegye székhely;72 612;82 002
+CSO;Hódmezővásárhely;vármegyei jogú város;20 494;22 037
+CSO;Csanádpalota;város;1 365;1 365
+CSO;Csongrád;város;7 573;8 235
+CSO;Kistelek;város;3 433;3 791
+CSO;Makó;város;10 790;11 723
+CSO;Mindszent;város;3 258;3 334
+CSO;Mórahalom;város;3 270;3 482
+CSO;Sándorfalva;város;4 229;4 315
+CSO;Szentes;város;11 949;13 196
+CSO;Algyő;nagyközség;2 709;2 801
+CSO;Nagymágocs;nagyközség;1 409;1 409
+CSO;Szegvár;nagyközség;2 077;2 144
+CSO;Ambrózfalva;község;243;232
+CSO;Apátfalva;község;1 495;1 541
+CSO;Árpádhalom;község;215;199
+CSO;Ásotthalom;község;1 992;2 008
+CSO;Baks;község;959;1 042
+CSO;Balástya;község;1 747;1 737
+CSO;Bordány;község;1 704;1 643
+CSO;Csanádalberti;község;218;229
+CSO;Csanytelek;község;1 308;1 354
+CSO;Csengele;község;933;935
+CSO;Derekegyház;község;724;706
+CSO;Deszk;község;2 095;2 061
+CSO;Dóc;község;356;372
+CSO;Domaszék;község;2 580;2 499
+CSO;Eperjes;község;201;204
+CSO;Fábiánsebestyén;község;930;930
+CSO;Felgyő;község;571;567
+CSO;Ferencszállás;község;333;336
+CSO;Forráskút;község;1 021;1 050
+CSO;Földeák;község;1 506;1 552
+CSO;Királyhegyes;község;307;312
+CSO;Kiszombor;község;1 883;1 938
+CSO;Klárafalva;község;255;243
+CSO;Kövegy;község;165;168
+CSO;Kübekháza;község;761;809
+CSO;Magyarcsanád;község;701;668
+CSO;Maroslele;község;1 061;1 116
+CSO;Mártély;község;685;652
+CSO;Nagyér;község;243;249
+CSO;Nagylak;község;219;210
+CSO;Nagytőke;község;209;180
+CSO;Óföldeák;község;212;262
+CSO;Ópusztaszer;község;1 023;1 010
+CSO;Öttömös;község;333;336
+CSO;Pitvaros;község;651;665
+CSO;Pusztamérges;község;519;556
+CSO;Pusztaszer;község;680;684
+CSO;Röszke;község;1 869;1 783
+CSO;Ruzsa;község;1 230;1 250
+CSO;Szatymaz;község;2 603;2 614
+CSO;Székkutas;község;1 023;983
+CSO;Tiszasziget;község;946;916
+CSO;Tömörkény;község;798;866
+CSO;Újszentiván;község;1 093;1 058
+CSO;Üllés;község;1 561;1 630
+CSO;Zákányszék;község;1 459;1 422
+CSO;Zsombó;község;1 838;1 778
+FEJ;Székesfehérvár;vármegye székhely;42 915;48 592
+FEJ;Dunaújváros;vármegyei jogú város;19 096;21 506
+FEJ;Aba;város;2 344;2 284
+FEJ;Adony;város;2 115;2 123
+FEJ;Bicske;város;6 230;6 245
+FEJ;Bodajk;város;1 935;1 989
+FEJ;Csákvár;város;2 601;2 820
+FEJ;Enying;város;3 278;3 414
+FEJ;Ercsi;város;4 181;4 174
+FEJ;Gárdony;város;6 205;6 566
+FEJ;Martonvásár;város;2 887;3 041
+FEJ;Mór;város;6 450;6 871
+FEJ;Polgárdi;város;3 334;3 497
+FEJ;Pusztaszabolcs;város;2 972;3 052
+FEJ;Rácalmás;város;2 548;2 479
+FEJ;Sárbogárd;város;5 776;6 083
+FEJ;Velence;város;3 698;3 847
+FEJ;Cece;nagyközség;1 305;1 317
+FEJ;Előszállás;nagyközség;1 155;1 175
+FEJ;Lajoskomárom;nagyközség;1 039;1 025
+FEJ;Lepsény;nagyközség;1 513;1 580
+FEJ;Mezőfalva;nagyközség;2 394;2 317
+FEJ;Perkáta;nagyközség;2 083;2 076
+FEJ;Sárosd;nagyközség;1 613;1 624
+FEJ;Seregélyes;nagyközség;2 214;2 257
+FEJ;Soponya;nagyközség;938;899
+FEJ;Szabadbattyán;nagyközség;2 496;2 440
+FEJ;Alap;község;949;974
+FEJ;Alcsútdoboz;község;759;758
+FEJ;Alsószentiván;község;280;272
+FEJ;Bakonycsernye;község;1 552;1 581
+FEJ;Bakonykúti;község;81;82
+FEJ;Balinka;község;456;471
+FEJ;Baracs;község;1 893;1 794
+FEJ;Baracska;község;1 461;1 405
+FEJ;Beloiannisz;község;568;552
+FEJ;Besnyő;község;936;932
+FEJ;Bodmér;község;131;134
+FEJ;Csabdi;község;667;674
+FEJ;Csákberény;község;571;600
+FEJ;Csókakő;község;770;819
+FEJ;Csór;község;996;970
+FEJ;Csősz;község;526;518
+FEJ;Daruszentmiklós;község;670;646
+FEJ;Dég;község;1 015;1 074
+FEJ;Etyek;község;2 326;2 366
+FEJ;Fehérvárcsurgó;község;1 054;1 115
+FEJ;Felcsút;község;1 016;950
+FEJ;Füle;község;458;457
+FEJ;Gánt;község;405;344
+FEJ;Gyúró;község;721;687
+FEJ;Hantos;község;449;461
+FEJ;Igar;község;436;414
+FEJ;Iszkaszentgyörgy;község;1 180;1 216
+FEJ;Isztimér;község;484;461
+FEJ;Iváncsa;község;1 380;1 437
+FEJ;Jenő;község;640;702
+FEJ;Kajászó;község;668;627
+FEJ;Káloz;község;1 175;1 249
+FEJ;Kápolnásnyék;község;2 058;2 150
+FEJ;Kincsesbánya;község;718;771
+FEJ;Kisapostag;község;774;742
+FEJ;Kisláng;község;1 273;1 222
+FEJ;Kőszárhegy;község;818;838
+FEJ;Kulcs;község;1 918;1 829
+FEJ;Lovasberény;község;1 411;1 400
+FEJ;Magyaralmás;község;870;867
+FEJ;Mány;község;1 265;1 260
+FEJ;Mátyásdomb;község;407;369
+FEJ;Mezőkomárom;község;490;454
+FEJ;Mezőszentgyörgy;község;660;640
+FEJ;Mezőszilas;község;1 015;1 092
+FEJ;Moha;község;298;261
+FEJ;Nadap;község;387;409
+FEJ;Nádasdladány;község;923;872
+FEJ;Nagykarácsony;község;723;639
+FEJ;Nagylók;község;500;545
+FEJ;Nagyveleg;község;334;338
+FEJ;Nagyvenyim;község;2 115;2 103
+FEJ;Óbarok;község;474;423
+FEJ;Pákozd;község;1 994;1 933
+FEJ;Pátka;község;992;949
+FEJ;Pázmánd;község;1 188;1 182
+FEJ;Pusztavám;község;1 252;1 305
+FEJ;Ráckeresztúr;község;1 871;1 825
+FEJ;Sáregres;község;381;351
+FEJ;Sárkeresztes;község;780;811
+FEJ;Sárkeresztúr;község;1 335;1 364
+FEJ;Sárkeszi;község;307;301
+FEJ;Sárszentágota;község;684;685
+FEJ;Sárszentmihály;község;1 603;1 567
+FEJ;Söréd;község;287;281
+FEJ;Sukoró;község;1 053;1 058
+FEJ;Szabadegyháza;község;1 033;1 028
+FEJ;Szabadhídvég;község;423;397
+FEJ;Szár;község;875;912
+FEJ;Tabajd;község;489;523
+FEJ;Tác;község;890;872
+FEJ;Tordas;község;1 161;1 150
+FEJ;Újbarok;község;269;241
+FEJ;Úrhida;község;1 440;1 395
+FEJ;Vajta;község;430;436
+FEJ;Vál;község;1 368;1 416
+FEJ;Vereb;község;436;425
+FEJ;Vértesacsa;község;925;975
+FEJ;Vértesboglár;község;441;480
+FEJ;Zámoly;község;1 212;1 212
+FEJ;Zichyújfalu;község;465;419
+GYO;Győr;vármegye székhely;57 051;63 070
+GYO;Sopron;vármegyei jogú város;26 398;29 280
+GYO;Beled;város;1 224;1 290
+GYO;Csorna;város;4 678;4 908
+GYO;Fertőd;város;1 645;1 754
+GYO;Fertőszentmiklós;város;1 910;2 084
+GYO;Jánossomorja;város;3 046;3 075
+GYO;Kapuvár;város;4 691;5 080
+GYO;Lébény;város;1 694;1 682
+GYO;Mosonmagyaróvár;város;15 386;16 423
+GYO;Pannonhalma;város;1 812;1 809
+GYO;Tét;város;2 099;2 137
+GYO;Bősárkány;nagyközség;1 146;1 151
+GYO;Hegyeshalom;nagyközség;1 970;2 029
+GYO;Nagycenk;nagyközség;1 398;1 475
+GYO;Szany;nagyközség;1 074;1 060
+GYO;Abda;község;1 638;1 659
+GYO;Acsalag;község;254;234
+GYO;Ágfalva;község;1 220;1 219
+GYO;Agyagosszergény;község;490;487
+GYO;Árpás;község;151;134
+GYO;Ásványráró;község;1 167;1 131
+GYO;Babót;község;557;552
+GYO;Bágyogszovát;község;662;658
+GYO;Bakonygyirót;község;92;92
+GYO;Bakonypéterd;község;159;134
+GYO;Bakonyszentlászló;község;876;863
+GYO;Barbacs;község;401;379
+GYO;Bezenye;község;730;805
+GYO;Bezi;község;276;259
+GYO;Bodonhely;község;194;178
+GYO;Bogyoszló;község;317;305
+GYO;Bőny;község;1 161;1 201
+GYO;Börcs;község;730;730
+GYO;Cakóháza;község;27;30
+GYO;Cirák;község;263;281
+GYO;Csáfordjánosfa;község;116;130
+GYO;Csapod;község;329;286
+GYO;Csér;község;19;13
+GYO;Csikvánd;község;266;248
+GYO;Darnózseli;község;825;848
+GYO;Dénesfa;község;221;199
+GYO;Dör;község;294;304
+GYO;Dunakiliti;község;1 139;1 156
+GYO;Dunaremete;község;133;138
+GYO;Dunaszeg;község;1 272;1 209
+GYO;Dunaszentpál;község;396;383
+GYO;Dunasziget;község;980;969
+GYO;Ebergőc;község;83;75
+GYO;Écs;község;1 128;1 179
+GYO;Edve;község;56;55
+GYO;Egyed;község;260;253
+GYO;Egyházasfalu;község;457;437
+GYO;Enese;község;931;973
+GYO;Farád;község;967;945
+GYO;Fehértó;község;267;261
+GYO;Feketeerdő;község;370;359
+GYO;Felpéc;község;501;522
+GYO;Fenyőfő;község;52;38
+GYO;Fertőboz;község;159;156
+GYO;Fertőendréd;község;327;320
+GYO;Fertőhomok;község;467;496
+GYO;Fertőrákos;község;1 226;1 275
+GYO;Fertőszéplak;község;723;732
+GYO;Gönyű;község;1 756;1 669
+GYO;Gyalóka;község;39;48
+GYO;Gyarmat;község;688;727
+GYO;Gyóró;község;181;196
+GYO;Gyömöre;község;652;625
+GYO;Győrasszonyfa;község;255;263
+GYO;Győrladamér;község;969;1 017
+GYO;Győrság;község;881;892
+GYO;Győrsövényház;község;430;393
+GYO;Győrszemere;község;1 863;1 862
+GYO;Győrújbarát;község;4 114;4 241
+GYO;Győrújfalu;község;1 249;1 266
+GYO;Győrzámoly;község;2 050;2 071
+GYO;Halászi;község;1 680;1 681
+GYO;Harka;község;1 614;1 625
+GYO;Hédervár;község;699;689
+GYO;Hegykő;község;846;837
+GYO;Hidegség;község;245;234
+GYO;Himod;község;345;348
+GYO;Hövej;község;202;176
+GYO;Ikrény;község;953;963
+GYO;Iván;község;659;600
+GYO;Jobaháza;község;245;273
+GYO;Kajárpéc;község;709;639
+GYO;Károlyháza;község;289;265
+GYO;Kimle;község;1 188;1 186
+GYO;Kisbabot;község;122;118
+GYO;Kisbajcs;község;466;468
+GYO;Kisbodak;község;192;196
+GYO;Kisfalud;község;364;358
+GYO;Kóny;község;1 407;1 398
+GYO;Kópháza;község;1 003;1 090
+GYO;Koroncó;község;1 388;1 383
+GYO;Kunsziget;község;730;742
+GYO;Lázi;község;289;246
+GYO;Levél;község;1 342;1 345
+GYO;Lipót;község;444;448
+GYO;Lövő;község;709;697
+GYO;Maglóca;község;78;65
+GYO;Magyarkeresztúr;község;217;234
+GYO;Máriakálnok;község;1 129;1 126
+GYO;Markotabödöge;község;262;261
+GYO;Mecsér;község;339;343
+GYO;Mérges;község;58;54
+GYO;Mezőörs;község;602;663
+GYO;Mihályi;község;576;513
+GYO;Mórichida;község;408;430
+GYO;Mosonszentmiklós;község;1 393;1 396
+GYO;Mosonszolnok;község;999;971
+GYO;Mosonudvar;község;219;195
+GYO;Nagybajcs;község;606;634
+GYO;Nagylózs;község;442;520
+GYO;Nagyszentjános;község;1 105;1 028
+GYO;Nemeskér;község;96;105
+GYO;Nyalka;község;248;284
+GYO;Nyúl;község;2 386;2 406
+GYO;Osli;község;457;464
+GYO;Öttevény;község;1 517;1 591
+GYO;Páli;község;285;200
+GYO;Pásztori;község;195;195
+GYO;Pázmándfalu;község;621;590
+GYO;Pér;község;1 260;1 313
+GYO;Pereszteg;község;772;767
+GYO;Petőháza;község;543;569
+GYO;Pinnye;község;177;154
+GYO;Potyond;község;55;46
+GYO;Pusztacsalád;község;155;140
+GYO;Püski;község;350;327
+GYO;Rábacsanak;község;284;269
+GYO;Rábacsécsény;község;319;323
+GYO;Rábakecöl;község;370;370
+GYO;Rábapatona;község;1 482;1 516
+GYO;Rábapordány;község;484;492
+GYO;Rábasebes;község;51;39
+GYO;Rábaszentandrás;község;238;237
+GYO;Rábaszentmihály;község;241;244
+GYO;Rábaszentmiklós;község;73;68
+GYO;Rábatamási;község;526;501
+GYO;Rábcakapi;község;90;99
+GYO;Rajka;község;3 334;3 643
+GYO;Ravazd;község;609;664
+GYO;Répceszemere;község;143;136
+GYO;Répcevis;község;171;171
+GYO;Rétalap;község;277;257
+GYO;Románd;község;161;162
+GYO;Röjtökmuzsaj;község;221;234
+GYO;Sarród;község;513;516
+GYO;Sikátor;község;159;187
+GYO;Sobor;község;146;156
+GYO;Sokorópátka;község;596;534
+GYO;Sopronhorpács;község;435;447
+GYO;Sopronkövesd;község;711;757
+GYO;Sopronnémeti;község;150;145
+GYO;Szakony;község;232;241
+GYO;Szárföld;község;550;554
+GYO;Szerecseny;község;432;434
+GYO;Szil;község;717;686
+GYO;Szilsárkány;község;376;355
+GYO;Táp;község;375;380
+GYO;Tápszentmiklós;község;476;434
+GYO;Tarjánpuszta;község;217;221
+GYO;Tárnokréti;község;102;100
+GYO;Tényő;község;931;926
+GYO;Töltéstava;község;1 330;1 299
+GYO;Újkér;község;497;508
+GYO;Újrónafő;község;476;458
+GYO;Und;község;166;186
+GYO;Vadosfa;község;47;44
+GYO;Vág;község;269;260
+GYO;Vámosszabadi;község;2 089;2 051
+GYO;Várbalog;község;229;226
+GYO;Vásárosfalu;község;90;73
+GYO;Vének;község;105;106
+GYO;Veszkény;község;481;521
+GYO;Veszprémvarsány;község;529;515
+GYO;Vitnyéd;község;749;733
+GYO;Völcsej;község;212;213
+GYO;Zsebeháza;község;74;78
+GYO;Zsira;község;417;399
+HAJ;Debrecen;vármegye székhely;90 932;101 277
+HAJ;Balmazújváros;város;8 611;8 989
+HAJ;Berettyóújfalu;város;6 908;7 434
+HAJ;Biharkeresztes;város;2 478;2 422
+HAJ;Derecske;város;4 177;4 399
+HAJ;Hajdúböszörmény;város;14 566;15 252
+HAJ;Hajdúdorog;város;4 412;4 421
+HAJ;Hajdúhadház;város;6 770;6 791
+HAJ;Hajdúnánás;város;8 033;8 341
+HAJ;Hajdúsámson;város;7 746;7 539
+HAJ;Hajdúszoboszló;város;11 764;12 618
+HAJ;Kaba;város;2 817;2 820
+HAJ;Komádi;város;2 582;2 664
+HAJ;Létavértes;város;3 711;3 791
+HAJ;Nádudvar;város;4 126;4 274
+HAJ;Nyíradony;város;3 756;3 854
+HAJ;Polgár;város;4 025;4 030
+HAJ;Püspökladány;város;6 616;7 037
+HAJ;Téglás;város;3 187;3 270
+HAJ;Tiszacsege;város;2 303;2 296
+HAJ;Vámospércs;város;2 684;2 719
+HAJ;Bagamér;nagyközség;1 239;1 262
+HAJ;Csökmő;nagyközség;949;906
+HAJ;Egyek;nagyközség;2 607;2 640
+HAJ;Földes;nagyközség;1 869;2 000
+HAJ;Hosszúpályi;nagyközség;2 936;2 943
+HAJ;Nagyrábé;nagyközség;987;1 023
+HAJ;Nyírábrány;nagyközség;1 933;1 982
+HAJ;Pocsaj;nagyközség;1 468;1 388
+HAJ;Sárrétudvari;nagyközség;1 432;1 411
+HAJ;Zsáka;nagyközség;757;778
+HAJ;Álmosd;község;903;941
+HAJ;Ártánd;község;394;323
+HAJ;Bakonszeg;község;551;603
+HAJ;Báránd;község;1 221;1 176
+HAJ;Bedő;község;209;201
+HAJ;Berekböszörmény;község;1 041;975
+HAJ;Bihardancsháza;község;88;72
+HAJ;Biharnagybajom;község;1 323;1 233
+HAJ;Bihartorda;község;486;496
+HAJ;Bocskaikert;község;2 114;2 179
+HAJ;Bojt;község;312;282
+HAJ;Darvas;község;265;239
+HAJ;Ebes;község;2 419;2 507
+HAJ;Esztár;község;664;679
+HAJ;Folyás;község;164;139
+HAJ;Furta;község;597;618
+HAJ;Fülöp;község;874;875
+HAJ;Gáborján;község;467;444
+HAJ;Görbeháza;község;1 184;1 224
+HAJ;Hajdúbagos;község;1 035;1 074
+HAJ;Hajdúszovát;község;1 554;1 557
+HAJ;Hencida;község;652;601
+HAJ;Hortobágy;község;654;684
+HAJ;Kismarja;község;626;693
+HAJ;Kokad;község;334;332
+HAJ;Konyár;község;1 139;1 114
+HAJ;Körösszakál;község;398;352
+HAJ;Körösszegapáti;község;466;507
+HAJ;Magyarhomorog;község;394;408
+HAJ;Mezőpeterd;község;367;303
+HAJ;Mezősas;község;338;345
+HAJ;Mikepércs;község;2 735;2 793
+HAJ;Monostorpályi;község;1 098;1 163
+HAJ;Nagyhegyes;község;1 458;1 520
+HAJ;Nagykereki;község;727;712
+HAJ;Nyíracsád;község;1 888;1 874
+HAJ;Nyírmártonfalva;község;982;978
+HAJ;Sáp;község;425;461
+HAJ;Sáránd;község;1 132;1 214
+HAJ;Szentpéterszeg;község;542;545
+HAJ;Szerep;község;797;777
+HAJ;Tépe;község;519;501
+HAJ;Tetétlen;község;705;648
+HAJ;Tiszagyulaháza;község;360;339
+HAJ;Told;község;205;195
+HAJ;Újiráz;község;221;263
+HAJ;Újléta;község;583;550
+HAJ;Újszentmargita;község;691;712
+HAJ;Újtikos;község;412;411
+HAJ;Váncsod;község;588;576
+HAJ;Vekerd;község;54;46
+HEV;Eger;vármegye székhely;22 403;26 530
+HEV;Bélapátfalva;város;1 271;1 437
+HEV;Füzesabony;város;3 594;3 712
+HEV;Gyöngyös;város;12 253;14 061
+HEV;Gyöngyöspata;város;1 192;1 238
+HEV;Hatvan;város;9 373;10 271
+HEV;Heves;város;4 795;5 231
+HEV;Kisköre;város;1 336;1 346
+HEV;Lőrinci;város;2 712;2 757
+HEV;Pétervására;város;1 068;1 103
+HEV;Verpelét;város;1 851;1 953
+HEV;Kál;nagyközség;1 766;1 834
+HEV;Parád;nagyközség;835;992
+HEV;Recsk;nagyközség;1 229;1 406
+HEV;Abasár;község;1 206;1 315
+HEV;Adács;község;1 308;1 332
+HEV;Aldebrő;község;363;361
+HEV;Andornaktálya;község;1 331;1 354
+HEV;Apc;község;1 226;1 253
+HEV;Átány;község;799;772
+HEV;Atkár;község;880;963
+HEV;Balaton;község;489;499
+HEV;Bátor;község;185;199
+HEV;Bekölce;község;308;335
+HEV;Besenyőtelek;község;1 295;1 316
+HEV;Boconád;község;635;633
+HEV;Bodony;község;356;358
+HEV;Boldog;község;1 455;1 520
+HEV;Bükkszék;község;330;350
+HEV;Bükkszenterzsébet;község;461;553
+HEV;Bükkszentmárton;község;168;179
+HEV;Csány;község;1 077;1 160
+HEV;Demjén;község;337;332
+HEV;Detk;község;543;605
+HEV;Domoszló;község;894;1 011
+HEV;Dormánd;község;468;503
+HEV;Ecséd;község;1 597;1 680
+HEV;Egerbakta;község;692;765
+HEV;Egerbocs;község;267;260
+HEV;Egercsehi;község;621;661
+HEV;Egerfarmos;község;336;344
+HEV;Egerszalók;község;1 032;1 008
+HEV;Egerszólát;község;524;532
+HEV;Erdőkövesd;község;311;345
+HEV;Erdőtelek;község;1 669;1 754
+HEV;Erk;község;472;494
+HEV;Fedémes;község;136;140
+HEV;Feldebrő;község;508;561
+HEV;Felsőtárkány;község;1 742;1 809
+HEV;Gyöngyöshalász;község;1 335;1 360
+HEV;Gyöngyösoroszi;község;746;776
+HEV;Gyöngyössolymos;község;1 419;1 450
+HEV;Gyöngyöstarján;község;1 101;1 176
+HEV;Halmajugra;község;662;678
+HEV;Heréd;község;917;928
+HEV;Hevesaranyos;község;287;291
+HEV;Hevesvezekény;község;305;329
+HEV;Hort;község;1 787;1 911
+HEV;Istenmezeje;község;618;683
+HEV;Ivád;község;177;190
+HEV;Kápolna;község;724;754
+HEV;Karácsond;község;1 430;1 503
+HEV;Kerecsend;község;1 191;1 095
+HEV;Kerekharaszt;község;466;474
+HEV;Kisfüzes;község;63;62
+HEV;Kisnána;község;485;517
+HEV;Kompolt;község;948;1 047
+HEV;Kömlő;község;1 041;1 036
+HEV;Ludas;község;376;397
+HEV;Maklár;község;1 205;1 275
+HEV;Markaz;község;879;898
+HEV;Mátraballa;község;334;366
+HEV;Mátraderecske;község;838;891
+HEV;Mátraszentimre;község;237;218
+HEV;Mezőszemere;község;584;558
+HEV;Mezőtárkány;község;789;793
+HEV;Mikófalva;község;322;349
+HEV;Mónosbél;község;193;203
+HEV;Nagyfüged;község;933;922
+HEV;Nagykökényes;község;290;277
+HEV;Nagyréde;község;1 591;1 658
+HEV;Nagytálya;község;480;442
+HEV;Nagyút;község;371;357
+HEV;Nagyvisnyó;község;458;451
+HEV;Noszvaj;község;877;991
+HEV;Novaj;község;660;710
+HEV;Ostoros;község;1 515;1 546
+HEV;Pálosvörösmart;község;317;325
+HEV;Parádsasvár;község;179;182
+HEV;Pély;község;697;675
+HEV;Petőfibánya;község;1 165;1 248
+HEV;Poroszló;község;1 384;1 339
+HEV;Rózsaszentmárton;község;934;1 030
+HEV;Sarud;község;564;536
+HEV;Sirok;község;847;894
+HEV;Szajla;község;310;323
+HEV;Szarvaskő;község;201;182
+HEV;Szentdomonkos;község;241;254
+HEV;Szihalom;község;1 053;1 051
+HEV;Szilvásvárad;község;723;764
+HEV;Szúcs;község;191;176
+HEV;Szűcsi;község;688;840
+HEV;Tarnabod;község;404;389
+HEV;Tarnalelesz;község;783;832
+HEV;Tarnaméra;község;767;776
+HEV;Tarnaörs;község;877;895
+HEV;Tarnaszentmária;község;111;116
+HEV;Tarnaszentmiklós;község;407;375
+HEV;Tarnazsadány;község;663;638
+HEV;Tenk;község;575;591
+HEV;Terpes;község;105;102
+HEV;Tiszanána;község;1 218;1 215
+HEV;Tófalu;község;295;299
+HEV;Újlőrincfalva;község;119;95
+HEV;Vámosgyörk;község;929;1 056
+HEV;Váraszó;község;221;276
+HEV;Vécs;község;317;313
+HEV;Visonta;község;627;659
+HEV;Visznek;község;581;560
+HEV;Zagyvaszántó;község;927;940
+HEV;Zaránk;község;208;242
+KOM;Tatabánya;vármegye székhely;30 723;34 001
+KOM;Esztergom;vármegyei jogú város;13 814;14 638
+KOM;Ács;város;3 538;3 636
+KOM;Bábolna;város;1 679;1 730
+KOM;Dorog;város;5 326;5 831
+KOM;Kisbér;város;2 633;2 806
+KOM;Komárom;város;8 896;9 726
+KOM;Lábatlan;város;2 454;2 581
+KOM;Nyergesújfalu;város;3 491;3 746
+KOM;Oroszlány;város;8 556;8 991
+KOM;Tát;város;2 595;2 813
+KOM;Tata;város;10 643;11 818
+KOM;Nagyigmánd;nagyközség;1 437;1 438
+KOM;Tokod;nagyközség;2 178;2 182
+KOM;Ácsteszér;község;344;359
+KOM;Aka;község;138;121
+KOM;Almásfüzitő;község;963;1 042
+KOM;Annavölgy;község;473;481
+KOM;Ászár;község;856;879
+KOM;Baj;község;1 448;1 458
+KOM;Bajna;község;938;970
+KOM;Bajót;község;802;853
+KOM;Bakonybánk;község;216;213
+KOM;Bakonysárkány;község;506;522
+KOM;Bakonyszombathely;község;735;734
+KOM;Bana;község;759;808
+KOM;Bársonyos;község;345;417
+KOM;Bokod;község;1 093;1 152
+KOM;Császár;község;943;960
+KOM;Csatka;község;117;113
+KOM;Csém;község;196;220
+KOM;Csép;község;175;185
+KOM;Csolnok;község;1 600;1 631
+KOM;Dad;község;520;512
+KOM;Dág;község;465;481
+KOM;Dömös;község;623;589
+KOM;Dunaalmás;község;934;927
+KOM;Dunaszentmiklós;község;274;308
+KOM;Epöl;község;317;316
+KOM;Ete;község;314;287
+KOM;Gyermely;község;804;811
+KOM;Héreg;község;595;560
+KOM;Kecskéd;község;1 065;1 062
+KOM;Kerékteleki;község;360;335
+KOM;Kesztölc;község;1 437;1 434
+KOM;Kisigmánd;község;257;240
+KOM;Kocs;község;1 366;1 371
+KOM;Kömlőd;község;544;588
+KOM;Környe;község;2 440;2 413
+KOM;Leányvár;község;922;949
+KOM;Máriahalom;község;364;337
+KOM;Mocsa;község;1 072;1 104
+KOM;Mogyorósbánya;község;420;470
+KOM;Nagysáp;község;760;752
+KOM;Naszály;község;1 213;1 279
+KOM;Neszmély;község;687;716
+KOM;Piliscsév;község;1 290;1 324
+KOM;Pilismarót;község;1 086;1 096
+KOM;Réde;község;630;653
+KOM;Sárisáp;község;1 405;1 476
+KOM;Súr;község;628;654
+KOM;Süttő;község;994;1 047
+KOM;Szákszend;község;804;752
+KOM;Szárliget;község;1 324;1 236
+KOM;Szomód;község;1 223;1 205
+KOM;Szomor;község;557;591
+KOM;Tardos;község;816;880
+KOM;Tarján;község;1 333;1 434
+KOM;Tárkány;község;759;798
+KOM;Tokodaltáró;község;1 508;1 526
+KOM;Úny;község;370;397
+KOM;Várgesztes;község;331;322
+KOM;Vérteskethely;község;306;304
+KOM;Vértessomló;község;754;725
+KOM;Vértesszőlős;község;1 806;1 863
+KOM;Vértestolna;község;302;312
+NOG;Salgótarján;vármegye székhely;14 933;16 927
+NOG;Balassagyarmat;város;6 457;7 282
+NOG;Bátonyterenye;város;5 524;5 771
+NOG;Pásztó;város;4 103;4 479
+NOG;Rétság;város;1 250;1 332
+NOG;Szécsény;város;2 531;2 787
+NOG;Alsópetény;község;296;305
+NOG;Alsótold;község;118;106
+NOG;Bánk;község;372;374
+NOG;Bárna;község;478;469
+NOG;Becske;község;261;279
+NOG;Bér;község;184;190
+NOG;Bercel;község;846;836
+NOG;Berkenye;község;375;413
+NOG;Bokor;község;46;54
+NOG;Borsosberény;község;448;450
+NOG;Buják;község;965;1 025
+NOG;Cered;község;490;537
+NOG;Csécse;község;401;443
+NOG;Cserháthaláp;község;186;178
+NOG;Cserhátsurány;község;358;394
+NOG;Cserhátszentiván;község;61;61
+NOG;Csesztve;község;175;162
+NOG;Csitár;község;205;174
+NOG;Debercsény;község;40;39
+NOG;Dejtár;község;719;679
+NOG;Diósjenő;község;1 499;1 460
+NOG;Dorogháza;község;482;500
+NOG;Drégelypalánk;község;725;753
+NOG;Ecseg;község;596;583
+NOG;Egyházasdengeleg;község;188;205
+NOG;Egyházasgerge;község;351;357
+NOG;Endrefalva;község;583;616
+NOG;Erdőkürt;község;259;259
+NOG;Erdőtarcsa;község;281;291
+NOG;Érsekvadkert;község;1 773;1 811
+NOG;Etes;község;671;647
+NOG;Felsőpetény;község;282;313
+NOG;Felsőtold;község;67;72
+NOG;Galgaguta;község;305;303
+NOG;Garáb;község;21;19
+NOG;Héhalom;község;495;479
+NOG;Herencsény;község;297;275
+NOG;Hollókő;község;151;178
+NOG;Hont;község;247;274
+NOG;Horpács;község;77;82
+NOG;Hugyag;község;431;458
+NOG;Iliny;község;66;85
+NOG;Ipolyszög;község;292;300
+NOG;Ipolytarnóc;község;224;198
+NOG;Ipolyvece;község;397;399
+NOG;Jobbágyi;község;952;977
+NOG;Kálló;község;856;764
+NOG;Karancsalja;község;732;742
+NOG;Karancsberény;község;355;394
+NOG;Karancskeszi;község;857;926
+NOG;Karancslapujtő;község;1 224;1 265
+NOG;Karancsság;község;624;642
+NOG;Kazár;község;830;866
+NOG;Keszeg;község;392;366
+NOG;Kétbodony;község;231;243
+NOG;Kisbágyon;község;198;224
+NOG;Kisbárkány;község;75;86
+NOG;Kisecset;község;116;93
+NOG;Kishartyán;község;270;261
+NOG;Kozárd;község;78;80
+NOG;Kutasó;község;42;55
+NOG;Legénd;község;236;248
+NOG;Litke;község;402;401
+NOG;Lucfalva;község;305;313
+NOG;Ludányhalászi;község;762;722
+NOG;Magyargéc;község;405;406
+NOG;Magyarnándor;község;540;581
+NOG;Márkháza;község;110;126
+NOG;Mátramindszent;község;369;367
+NOG;Mátranovák;község;761;859
+NOG;Mátraszele;község;425;485
+NOG;Mátraszőlős;község;709;783
+NOG;Mátraterenye;község;849;861
+NOG;Mátraverebély;község;901;874
+NOG;Mihálygerge;község;265;287
+NOG;Mohora;község;470;481
+NOG;Nagybárkány;község;320;312
+NOG;Nagykeresztúr;község;120;116
+NOG;Nagylóc;község;702;728
+NOG;Nagyoroszi;község;972;954
+NOG;Nemti;község;342;370
+NOG;Nézsa;község;616;634
+NOG;Nógrád;község;870;849
+NOG;Nógrádkövesd;község;311;305
+NOG;Nógrádmarcal;község;245;210
+NOG;Nógrádmegyer;község;808;844
+NOG;Nógrádsáp;község;481;470
+NOG;Nógrádsipek;község;325;342
+NOG;Nógrádszakál;község;307;299
+NOG;Nőtincs;község;604;629
+NOG;Őrhalom;község;570;557
+NOG;Ősagárd;község;140;166
+NOG;Palotás;község;798;866
+NOG;Patak;község;437;474
+NOG;Patvarc;község;372;380
+NOG;Piliny;község;316;278
+NOG;Pusztaberki;község;102;90
+NOG;Rákóczibánya;község;310;317
+NOG;Rimóc;község;781;841
+NOG;Romhány;község;1 063;1 154
+NOG;Ságújfalu;község;468;503
+NOG;Sámsonháza;község;120;120
+NOG;Somoskőújfalu;község;1 079;1 105
+NOG;Sóshartyán;község;450;450
+NOG;Szalmatercs;község;244;239
+NOG;Szanda;község;296;274
+NOG;Szarvasgede;község;209;206
+NOG;Szátok;község;293;264
+NOG;Szécsénke;község;102;104
+NOG;Szécsényfelfalu;község;212;206
+NOG;Szendehely;község;807;865
+NOG;Szente;község;141;165
+NOG;Szilaspogony;község;157;187
+NOG;Szirák;község;544;513
+NOG;Szuha;község;261;290
+NOG;Szurdokpüspöki;község;885;970
+NOG;Szügy;község;709;725
+NOG;Tar;község;913;1 004
+NOG;Terény;község;160;199
+NOG;Tereske;község;357;359
+NOG;Tolmács;község;356;402
+NOG;Vanyarc;község;583;610
+NOG;Varsány;község;775;793
+NOG;Vizslás;község;617;637
+NOG;Zabar;község;233;241
+PES;Érd;vármegyei jogú város;35 643;37 411
+PES;Abony;város;7 256;7 709
+PES;Albertirsa;város;6 814;7 269
+PES;Aszód;város;2 961;3 240
+PES;Biatorbágy;város;7 678;7 669
+PES;Budakalász;város;5 966;6 327
+PES;Budakeszi;város;7 698;8 339
+PES;Budaörs;város;14 027;15 120
+PES;Cegléd;város;17 327;18 699
+PES;Dabas;város;8 530;9 098
+PES;Diósd;város;5 683;6 050
+PES;Dunaharaszti;város;11 858;12 317
+PES;Dunakeszi;város;20 478;22 321
+PES;Dunavarsány;város;4 464;4 694
+PES;Fót;város;10 524;10 810
+PES;Göd;város;10 723;11 200
+PES;Gödöllő;város;14 763;16 377
+PES;Gyál;város;12 265;12 606
+PES;Gyömrő;város;9 812;10 708
+PES;Halásztelek;város;6 070;6 397
+PES;Isaszeg;város;5 869;5 919
+PES;Kerepes;város;5 654;5 713
+PES;Kiskunlacháza;város;4 603;4 861
+PES;Kistarcsa;város;6 605;7 109
+PES;Maglód;város;6 224;6 426
+PES;Monor;város;9 478;9 851
+PES;Nagykáta;város;5 939;6 294
+PES;Nagykőrös;város;11 247;12 207
+PES;Nagymaros;város;2 550;2 589
+PES;Ócsa;város;5 065;5 179
+PES;Őrbottyán;város;4 116;4 303
+PES;Örkény;város;2 627;2 626
+PES;Pécel;város;8 580;8 949
+PES;Pilis;város;6 225;6 255
+PES;Piliscsaba;város;4 335;4 440
+PES;Pilisvörösvár;város;6 932;7 743
+PES;Pomáz;város;9 057;9 516
+PES;Ráckeve;város;5 318;5 710
+PES;Sülysáp;város;4 358;4 382
+PES;Százhalombatta;város;8 536;9 459
+PES;Szentendre;város;13 661;14 937
+PES;Szigethalom;város;9 444;9 736
+PES;Szigetszentmiklós;város;19 830;20 831
+PES;Szob;város;1 216;1 365
+PES;Tápiószele;város;3 072;3 172
+PES;Tököl;város;5 239;5 654
+PES;Törökbálint;város;7 213;7 570
+PES;Tura;város;3 799;4 095
+PES;Újhartyán;város;1 432;1 557
+PES;Üllő;város;6 437;6 761
+PES;Vác;város;15 889;17 577
+PES;Vecsés;város;10 459;11 112
+PES;Veresegyház;város;10 244;10 798
+PES;Visegrád;város;816;904
+PES;Zsámbék;város;2 926;3 107
+PES;Alsónémedi;nagyközség;2 828;2 914
+PES;Bag;nagyközség;1 994;1 968
+PES;Bugyi;nagyközség;2 754;2 804
+PES;Csömör;nagyközség;5 065;5 250
+PES;Dömsöd;nagyközség;3 095;3 083
+PES;Kartal;nagyközség;3 021;3 131
+PES;Leányfalu;nagyközség;1 962;2 142
+PES;Mogyoród;nagyközség;4 243;4 235
+PES;Nagykovácsi;nagyközség;4 403;4 603
+PES;Solymár;nagyközség;5 618;5 998
+PES;Taksony;nagyközség;3 454;3 534
+PES;Tápiószecső;nagyközség;3 057;3 231
+PES;Tápiószentmárton;nagyközség;2 913;2 960
+PES;Tárnok;nagyközség;5 404;5 523
+PES;Valkó;nagyközség;1 334;1 314
+PES;Acsa;község;689;677
+PES;Apaj;község;595;565
+PES;Áporka;község;663;631
+PES;Bénye;község;620;679
+PES;Bernecebaráti;község;401;406
+PES;Budajenő;község;1 327;1 341
+PES;Ceglédbercel;község;2 109;2 333
+PES;Csemő;község;2 383;2 346
+PES;Csévharaszt;község;1 075;1 097
+PES;Csobánka;község;1 866;1 850
+PES;Csomád;község;950;917
+PES;Csörög;község;1 137;1 115
+PES;Csővár;község;322;342
+PES;Dánszentmiklós;község;1 457;1 399
+PES;Dány;község;2 297;2 410
+PES;Délegyháza;község;3 072;3 098
+PES;Domony;község;1 137;1 148
+PES;Dunabogdány;község;1 635;1 729
+PES;Ecser;község;2 052;2 157
+PES;Erdőkertes;község;5 164;5 197
+PES;Farmos;község;1 808;1 819
+PES;Felsőpakony;község;1 983;1 972
+PES;Galgagyörk;község;470;504
+PES;Galgahévíz;község;1 324;1 334
+PES;Galgamácsa;község;950;1 003
+PES;Gomba;község;1 600;1 658
+PES;Herceghalom;község;1 497;1 398
+PES;Hernád;község;2 151;2 199
+PES;Hévízgyörk;község;1 663;1 796
+PES;Iklad;község;991;1 054
+PES;Inárcs;község;2 451;2 576
+PES;Ipolydamásd;község;229;179
+PES;Ipolytölgyes;község;151;153
+PES;Jászkarajenő;község;1 317;1 369
+PES;Kakucs;község;1 746;1 621
+PES;Káva;község;342;332
+PES;Kemence;község;452;475
+PES;Kismaros;község;1 332;1 295
+PES;Kisnémedi;község;361;369
+PES;Kisoroszi;község;511;530
+PES;Kocsér;község;915;966
+PES;Kóka;község;2 344;2 339
+PES;Kosd;község;1 283;1 308
+PES;Kóspallag;község;380;388
+PES;Kőröstetétlen;község;384;413
+PES;Letkés;község;542;582
+PES;Lórév;község;163;146
+PES;Majosháza;község;925;859
+PES;Makád;község;630;627
+PES;Márianosztra;község;369;392
+PES;Mende;község;2 112;2 152
+PES;Mikebuda;község;366;384
+PES;Monorierdő;község;2 668;2 688
+PES;Nagybörzsöny;község;323;325
+PES;Nagytarcsa;község;3 235;3 380
+PES;Nyáregyháza;község;1 999;1 990
+PES;Nyársapát;község;1 100;1 091
+PES;Pánd;község;999;979
+PES;Páty;község;4 230;4 404
+PES;Penc;község;791;806
+PES;Perbál;község;1 043;1 107
+PES;Perőcsény;község;192;182
+PES;Péteri;község;1 379;1 376
+PES;Pilisborosjenő;község;2 270;2 249
+PES;Pilisjászfalu;község;1 139;1 130
+PES;Pilisszántó;község;1 330;1 377
+PES;Pilisszentiván;község;2 106;2 283
+PES;Pilisszentkereszt;község;1 046;1 142
+PES;Pilisszentlászló;község;656;695
+PES;Pócsmegyer;község;1 521;1 465
+PES;Pusztavacs;község;648;650
+PES;Pusztazámor;község;606;624
+PES;Püspökhatvan;község;678;712
+PES;Püspökszilágy;község;383;368
+PES;Rád;község;1 024;999
+PES;Remeteszőlős;község;563;591
+PES;Sóskút;község;1 916;1 894
+PES;Szada;község;3 243;3 443
+PES;Szentlőrinckáta;község;976;1 027
+PES;Szentmártonkáta;község;2 663;2 561
+PES;Szigetbecse;község;739;746
+PES;Szigetcsép;község;1 461;1 476
+PES;Szigetmonostor;község;1 563;1 530
+PES;Szigetszentmárton;község;1 312;1 381
+PES;Szigetújfalu;község;1 149;1 178
+PES;Szokolya;község;985;956
+PES;Sződ;község;1 617;1 712
+PES;Sződliget;község;2 477;2 521
+PES;Táborfalva;község;1 708;1 758
+PES;Tahitótfalu;község;3 151;3 234
+PES;Tápióbicske;község;1 939;1 871
+PES;Tápiógyörgye;község;1 898;1 953
+PES;Tápióság;község;1 390;1 455
+PES;Tápiószőlős;község;1 517;1 588
+PES;Tatárszentgyörgy;község;1 023;1 033
+PES;Telki;község;2 272;2 312
+PES;Tésa;község;62;39
+PES;Tinnye;község;1 008;1 017
+PES;Tóalmás;község;2 140;2 104
+PES;Tök;község;743;754
+PES;Törtel;község;2 158;2 253
+PES;Újlengyel;község;905;949
+PES;Újszilvás;község;1 396;1 378
+PES;Úri;község;1 331;1 376
+PES;Üröm;község;4 292;4 445
+PES;Vácduka;község;968;968
+PES;Vácegres;község;495;497
+PES;Váchartyán;község;935;973
+PES;Váckisújfalu;község;243;249
+PES;Vácrátót;község;1 305;1 355
+PES;Vácszentlászló;község;1 138;1 131
+PES;Vámosmikola;község;747;775
+PES;Vasad;község;1 011;1 004
+PES;Verőce;község;2 028;2 063
+PES;Verseg;község;659;672
+PES;Zebegény;község;644;690
+PES;Zsámbok;község;1 281;1 285
+SOM;Kaposvár;vármegye székhely;27 586;31 467
+SOM;Balatonboglár;város;2 613;2 959
+SOM;Balatonföldvár;város;1 132;1 219
+SOM;Balatonlelle;város;2 372;2 493
+SOM;Barcs;város;4 902;5 380
+SOM;Csurgó;város;2 265;2 415
+SOM;Fonyód;város;2 515;2 702
+SOM;Igal;város;792;834
+SOM;Kadarkút;város;1 193;1 203
+SOM;Lengyeltóti;város;1 517;1 553
+SOM;Marcali;város;5 190;5 912
+SOM;Nagyatád;város;4 482;5 177
+SOM;Nagybajom;város;1 588;1 588
+SOM;Siófok;város;11 493;13 020
+SOM;Tab;város;2 006;2 095
+SOM;Zamárdi;város;1 330;1 356
+SOM;Balatonszárszó;nagyközség;1 065;1 169
+SOM;Berzence;nagyközség;1 122;1 250
+SOM;Ádánd;község;1 074;1 124
+SOM;Alsóbogát;község;126;115
+SOM;Andocs;község;506;514
+SOM;Babócsa;község;723;786
+SOM;Bábonymegyer;község;411;426
+SOM;Bakháza;község;93;71
+SOM;Balatonberény;község;638;671
+SOM;Balatonendréd;község;630;727
+SOM;Balatonfenyves;község;1 096;1 201
+SOM;Balatonkeresztúr;község;914;949
+SOM;Balatonmáriafürdő;község;430;460
+SOM;Balatonőszöd;község;285;310
+SOM;Balatonszabadi;község;1 463;1 568
+SOM;Balatonszemes;község;854;947
+SOM;Balatonszentgyörgy;község;792;862
+SOM;Balatonújlak;község;237;250
+SOM;Balatonvilágos;község;787;683
+SOM;Bálványos;község;303;307
+SOM;Bárdudvarnok;község;590;576
+SOM;Baté;község;388;411
+SOM;Bedegkér;község;211;185
+SOM;Bélavár;község;162;174
+SOM;Beleg;község;321;282
+SOM;Bodrog;község;206;206
+SOM;Bolhás;község;198;201
+SOM;Bolhó;község;381;364
+SOM;Bonnya;község;124;123
+SOM;Böhönye;község;1 097;1 149
+SOM;Bőszénfa;község;233;247
+SOM;Buzsák;község;741;848
+SOM;Büssü;község;195;182
+SOM;Csákány;község;192;174
+SOM;Cserénfa;község;117;114
+SOM;Csokonyavisonta;község;764;778
+SOM;Csoma;község;220;202
+SOM;Csombárd;község;159;139
+SOM;Csököly;község;463;498
+SOM;Csömend;község;147;166
+SOM;Csurgónagymarton;község;80;86
+SOM;Darány;község;436;447
+SOM;Drávagárdony;község;70;86
+SOM;Drávatamási;község;182;169
+SOM;Ecseny;község;122;123
+SOM;Edde;község;116;94
+SOM;Felsőmocsolád;község;205;196
+SOM;Fiad;község;60;58
+SOM;Fonó;község;177;176
+SOM;Főnyed;község;49;37
+SOM;Gadács;község;52;37
+SOM;Gadány;község;147;179
+SOM;Gálosfa;község;124;111
+SOM;Gamás;község;344;359
+SOM;Gige;község;207;209
+SOM;Gölle;község;410;420
+SOM;Görgeteg;község;558;530
+SOM;Gyékényes;község;491;504
+SOM;Gyugy;község;174;158
+SOM;Hács;község;198;179
+SOM;Hajmás;község;123;103
+SOM;Háromfa;község;341;350
+SOM;Hedrehely;község;196;180
+SOM;Hencse;község;146;170
+SOM;Heresznye;község;147;132
+SOM;Hetes;község;516;582
+SOM;Hollád;község;127;133
+SOM;Homokszentgyörgy;község;491;509
+SOM;Hosszúvíz;község;38;28
+SOM;Iharos;község;237;235
+SOM;Iharosberény;község;637;652
+SOM;Inke;község;586;611
+SOM;Istvándi;község;264;292
+SOM;Jákó;község;331;306
+SOM;Juta;község;582;599
+SOM;Kálmáncsa;község;313;279
+SOM;Kánya;község;209;231
+SOM;Kapoly;község;312;331
+SOM;Kaposfő;község;754;774
+SOM;Kaposgyarmat;község;43;37
+SOM;Kaposhomok;község;239;243
+SOM;Kaposkeresztúr;község;171;161
+SOM;Kaposmérő;község;1 186;1 244
+SOM;Kaposszerdahely;község;542;511
+SOM;Kaposújlak;község;361;357
+SOM;Kára;község;40;33
+SOM;Karád;község;793;775
+SOM;Kastélyosdombó;község;84;94
+SOM;Kaszó;község;41;39
+SOM;Kazsok;község;174;150
+SOM;Kelevíz;község;187;169
+SOM;Kercseliget;község;188;181
+SOM;Kereki;község;263;292
+SOM;Kéthely;község;1 129;1 155
+SOM;Kisasszond;község;97;72
+SOM;Kisbajom;község;173;182
+SOM;Kisbárapáti;község;207;181
+SOM;Kisberény;község;87;84
+SOM;Kisgyalán;község;114;106
+SOM;Kiskorpád;község;447;476
+SOM;Komlósd;község;88;98
+SOM;Kőkút;község;288;232
+SOM;Kőröshegy;község;712;750
+SOM;Kötcse;község;274;279
+SOM;Kutas;község;671;664
+SOM;Lábod;község;913;927
+SOM;Lad;község;291;301
+SOM;Lakócsa;község;292;285
+SOM;Látrány;község;656;717
+SOM;Libickozma;község;22;21
+SOM;Lulla;község;102;99
+SOM;Magyaratád;község;386;400
+SOM;Magyaregres;község;295;306
+SOM;Mernye;község;677;693
+SOM;Mesztegnyő;község;683;725
+SOM;Mezőcsokonya;község;603;611
+SOM;Mike;község;312;316
+SOM;Miklósi;község;102;105
+SOM;Mosdós;község;419;459
+SOM;Nágocs;község;269;313
+SOM;Nagyberény;község;687;687
+SOM;Nagyberki;község;651;723
+SOM;Nagycsepely;község;205;188
+SOM;Nagykorpád;község;276;246
+SOM;Nagyszakácsi;község;273;220
+SOM;Nemesdéd;község;454;441
+SOM;Nemeskisfalud;község;78;75
+SOM;Nemesvid;község;378;363
+SOM;Nikla;község;389;408
+SOM;Nyim;község;167;160
+SOM;Orci;község;266;278
+SOM;Ordacsehi;község;447;437
+SOM;Osztopán;község;435;417
+SOM;Öreglak;község;756;796
+SOM;Őrtilos;község;238;224
+SOM;Ötvöskónyi;község;441;430
+SOM;Pálmajor;község;173;171
+SOM;Pamuk;község;148;141
+SOM;Patalom;község;137;158
+SOM;Patca;község;29;31
+SOM;Patosfa;község;129;136
+SOM;Péterhida;község;76;73
+SOM;Pogányszentpéter;község;252;251
+SOM;Polány;község;154;138
+SOM;Porrog;község;97;94
+SOM;Porrogszentkirály;község;137;149
+SOM;Porrogszentpál;község;31;41
+SOM;Potony;község;95;109
+SOM;Pusztakovácsi;község;432;434
+SOM;Pusztaszemes;község;219;217
+SOM;Ráksi;község;221;228
+SOM;Rinyabesenyő;község;107;93
+SOM;Rinyakovácsi;község;92;82
+SOM;Rinyaszentkirály;község;213;175
+SOM;Rinyaújlak;község;153;172
+SOM;Rinyaújnép;község;24;25
+SOM;Ságvár;község;994;1 050
+SOM;Sántos;község;232;260
+SOM;Sávoly;község;273;222
+SOM;Segesd;község;1 197;1 171
+SOM;Sérsekszőlős;község;65;68
+SOM;Simonfa;község;189;214
+SOM;Siójut;község;339;331
+SOM;Som;község;346;351
+SOM;Somodor;község;220;177
+SOM;Somogyacsa;község;94;91
+SOM;Somogyaracs;község;103;84
+SOM;Somogyaszaló;község;410;373
+SOM;Somogybabod;község;258;237
+SOM;Somogybükkösd;község;59;46
+SOM;Somogycsicsó;község;70;76
+SOM;Somogydöröcske;község;76;74
+SOM;Somogyegres;község;94;93
+SOM;Somogyfajsz;község;272;266
+SOM;Somogygeszti;község;227;211
+SOM;Somogyjád;község;727;819
+SOM;Somogymeggyes;község;237;240
+SOM;Somogysámson;község;357;376
+SOM;Somogysárd;község;632;642
+SOM;Somogysimonyi;község;57;53
+SOM;Somogyszentpál;község;446;433
+SOM;Somogyszil;község;351;355
+SOM;Somogyszob;község;728;737
+SOM;Somogytúr;község;222;245
+SOM;Somogyudvarhely;község;484;528
+SOM;Somogyvámos;község;370;369
+SOM;Somogyvár;község;859;849
+SOM;Somogyzsitfa;község;291;309
+SOM;Szabadi;község;128;146
+SOM;Szabás;község;316;264
+SOM;Szántód;község;326;341
+SOM;Szegerdő;község;116;112
+SOM;Szenna;község;386;386
+SOM;Szenta;község;196;185
+SOM;Szentbalázs;község;164;158
+SOM;Szentborbás;község;63;59
+SOM;Szentgáloskér;község;270;248
+SOM;Szenyér;község;170;154
+SOM;Szilvásszentmárton;község;85;100
+SOM;Szólád;község;275;295
+SOM;Szorosad;község;45;55
+SOM;Szőkedencs;község;161;161
+SOM;Szőlősgyörök;község;689;693
+SOM;Szulok;község;320;309
+SOM;Tapsony;község;343;335
+SOM;Tarany;község;559;585
+SOM;Táska;község;199;188
+SOM;Taszár;község;872;925
+SOM;Teleki;község;121;103
+SOM;Tengőd;község;223;202
+SOM;Tikos;község;81;63
+SOM;Torvaj;község;123;109
+SOM;Tótújfalu;község;127;113
+SOM;Törökkoppány;község;185;212
+SOM;Újvárfalva;község;125;127
+SOM;Varászló;község;72;87
+SOM;Várda;község;199;225
+SOM;Vése;község;352;393
+SOM;Visnye;község;133;109
+SOM;Visz;község;101;87
+SOM;Vízvár;község;244;239
+SOM;Vörs;község;268;288
+SOM;Zákány;község;538;526
+SOM;Zákányfalu;község;239;264
+SOM;Zala;község;130;120
+SOM;Zics;község;175;180
+SOM;Zimány;község;276;266
+SOM;Zselickisfalud;község;121;113
+SOM;Zselickislak;község;190;237
+SOM;Zselicszentpál;község;225;223
+SZA;Nyíregyháza;vármegye székhely;54 574;61 542
+SZA;Ajak;város;1 718;1 849
+SZA;Baktalórántháza;város;1 801;1 893
+SZA;Balkány;város;2 991;2 933
+SZA;Csenger;város;2 350;2 540
+SZA;Demecser;város;2 014;2 093
+SZA;Dombrád;város;1 938;1 992
+SZA;Fehérgyarmat;város;3 579;3 941
+SZA;Ibrány;város;3 262;3 346
+SZA;Kemecse;város;2 503;2 500
+SZA;Kisvárda;város;7 431;8 236
+SZA;Mándok;város;1 969;2 074
+SZA;Máriapócs;város;924;1 061
+SZA;Mátészalka;város;7 378;8 206
+SZA;Nagyecsed;város;3 024;3 162
+SZA;Nagyhalász;város;2 730;2 844
+SZA;Nagykálló;város;4 495;4 833
+SZA;Nyírbátor;város;5 593;6 055
+SZA;Nyírbogát;város;1 519;1 538
+SZA;Nyírlugos;város;1 310;1 385
+SZA;Nyírmada;város;2 477;2 530
+SZA;Nyírtelek;város;3 587;3 553
+SZA;Rakamaz;város;2 254;2 396
+SZA;Tiszalök;város;2 575;2 692
+SZA;Tiszavasvári;város;6 383;6 423
+SZA;Újfehértó;város;6 180;6 349
+SZA;Vaja;város;1 727;1 750
+SZA;Vásárosnamény;város;4 024;4 290
+SZA;Záhony;város;1 952;2 153
+SZA;Gávavencsellő;nagyközség;1 681;1 793
+SZA;Hodász;nagyközség;1 603;1 610
+SZA;Kállósemjén;nagyközség;1 799;1 865
+SZA;Kölcse;nagyközség;660;685
+SZA;Levelek;nagyközség;1 420;1 498
+SZA;Mérk;nagyközség;1 074;1 148
+SZA;Nyírbéltek;nagyközség;1 435;1 422
+SZA;Ököritófülpös;nagyközség;880;901
+SZA;Porcsalma;nagyközség;1 422;1 420
+SZA;Tarpa;nagyközség;1 269;1 280
+SZA;Tiszabecs;nagyközség;731;648
+SZA;Tiszadob;nagyközség;1 378;1 288
+SZA;Tuzsér;nagyközség;1 756;1 703
+SZA;Tyukod;nagyközség;962;1 009
+SZA;Anarcs;község;988;1 002
+SZA;Apagy;község;1 164;1 190
+SZA;Aranyosapáti;község;1 067;1 127
+SZA;Balsa;község;366;338
+SZA;Barabás;község;485;451
+SZA;Bátorliget;község;303;300
+SZA;Benk;község;239;226
+SZA;Beregdaróc;község;524;465
+SZA;Beregsurány;község;448;422
+SZA;Berkesz;község;387;383
+SZA;Besenyőd;község;406;408
+SZA;Beszterec;község;472;487
+SZA;Biri;község;649;667
+SZA;Botpalád;község;473;366
+SZA;Bököny;község;1 541;1 552
+SZA;Buj;község;1 195;1 180
+SZA;Cégénydányád;község;331;350
+SZA;Csaholc;község;331;310
+SZA;Csaroda;község;284;304
+SZA;Császló;község;192;197
+SZA;Csegöld;község;352;342
+SZA;Csengersima;község;410;381
+SZA;Csengerújfalu;község;448;402
+SZA;Darnó;község;84;81
+SZA;Döge;község;1 097;1 118
+SZA;Encsencs;község;981;917
+SZA;Eperjeske;község;580;599
+SZA;Érpatak;község;926;860
+SZA;Fábiánháza;község;944;895
+SZA;Fényeslitke;község;1 175;1 295
+SZA;Fülesd;község;246;198
+SZA;Fülpösdaróc;község;201;188
+SZA;Gacsály;község;479;488
+SZA;Garbolc;község;74;76
+SZA;Géberjén;község;217;225
+SZA;Gégény;község;919;924
+SZA;Gelénes;község;282;289
+SZA;Gemzse;község;450;435
+SZA;Geszteréd;község;828;873
+SZA;Gulács;község;536;499
+SZA;Győröcske;község;78;75
+SZA;Győrtelek;község;828;837
+SZA;Gyulaháza;község;925;966
+SZA;Gyügye;község;166;156
+SZA;Gyüre;község;629;650
+SZA;Hermánszeg;község;137;139
+SZA;Hetefejércse;község;142;185
+SZA;Ilk;község;635;605
+SZA;Jánd;község;398;382
+SZA;Jánkmajtis;község;903;909
+SZA;Jármi;község;633;641
+SZA;Jéke;község;359;388
+SZA;Kálmánháza;község;932;923
+SZA;Kántorjánosi;község;1 012;1 022
+SZA;Kék;község;972;1 020
+SZA;Kékcse;község;727;770
+SZA;Kérsemjén;község;155;166
+SZA;Kisar;község;537;488
+SZA;Kishódos;község;32;30
+SZA;Kisléta;község;843;801
+SZA;Kisnamény;község;156;168
+SZA;Kispalád;község;408;372
+SZA;Kisszekeres;község;273;304
+SZA;Kisvarsány;község;512;528
+SZA;Kocsord;község;1 418;1 454
+SZA;Komlódtótfalu;község;79;72
+SZA;Komoró;község;598;641
+SZA;Kótaj;község;2 336;2 359
+SZA;Kömörő;község;266;282
+SZA;Laskod;község;419;435
+SZA;Lónya;község;497;428
+SZA;Lövőpetri;község;233;238
+SZA;Magosliget;község;173;154
+SZA;Magy;község;423;470
+SZA;Mánd;község;160;161
+SZA;Márokpapi;község;328;295
+SZA;Mátyus;község;168;157
+SZA;Méhtelek;község;367;390
+SZA;Mezőladány;község;519;500
+SZA;Milota;község;498;462
+SZA;Nábrád;község;442;447
+SZA;Nagyar;község;334;315
+SZA;Nagycserkesz;község;888;808
+SZA;Nagydobos;község;1 132;1 125
+SZA;Nagyhódos;község;73;62
+SZA;Nagyszekeres;község;252;266
+SZA;Nagyvarsány;község;679;707
+SZA;Napkor;község;1 876;1 912
+SZA;Nemesborzova;község;54;50
+SZA;Nyírbogdány;község;1 426;1 475
+SZA;Nyírcsaholy;község;1 139;1 121
+SZA;Nyírcsászári;község;609;583
+SZA;Nyírderzs;község;285;283
+SZA;Nyírgelse;község;533;552
+SZA;Nyírgyulaj;község;972;988
+SZA;Nyíribrony;község;601;591
+SZA;Nyírjákó;község;408;423
+SZA;Nyírkarász;község;1 049;1 160
+SZA;Nyírkáta;község;1 080;974
+SZA;Nyírkércs;község;352;362
+SZA;Nyírlövő;község;335;360
+SZA;Nyírmeggyes;község;1 290;1 348
+SZA;Nyírmihálydi;község;1 107;1 175
+SZA;Nyírparasznya;község;465;453
+SZA;Nyírpazony;község;1 981;2 024
+SZA;Nyírpilis;község;555;496
+SZA;Nyírtass;község;986;936
+SZA;Nyírtét;község;516;516
+SZA;Nyírtura;község;1 002;1 045
+SZA;Nyírvasvári;község;1 033;974
+SZA;Ófehértó;község;1 293;1 306
+SZA;Olcsva;község;394;349
+SZA;Olcsvaapáti;község;143;131
+SZA;Ópályi;község;1 656;1 541
+SZA;Ömböly;község;224;215
+SZA;Őr;község;743;778
+SZA;Panyola;község;269;261
+SZA;Pap;község;935;918
+SZA;Papos;község;416;414
+SZA;Paszab;község;650;598
+SZA;Pátroha;község;1 450;1 520
+SZA;Pátyod;község;335;342
+SZA;Penészlek;község;509;551
+SZA;Penyige;község;380;380
+SZA;Petneháza;község;787;824
+SZA;Piricse;község;948;961
+SZA;Pócspetri;község;772;864
+SZA;Pusztadobos;község;724;719
+SZA;Ramocsaháza;község;661;724
+SZA;Rápolt;község;83;85
+SZA;Rétközberencs;község;597;577
+SZA;Rohod;község;582;612
+SZA;Rozsály;község;360;337
+SZA;Sényő;község;754;766
+SZA;Sonkád;község;403;397
+SZA;Szabolcs;község;169;182
+SZA;Szabolcsbáka;község;552;557
+SZA;Szabolcsveresmart;község;669;688
+SZA;Szakoly;község;1 413;1 361
+SZA;Szamosangyalos;község;364;298
+SZA;Szamosbecs;község;217;210
+SZA;Szamoskér;község;211;185
+SZA;Szamossályi;község;359;370
+SZA;Szamosszeg;község;924;882
+SZA;Szamostatárfalva;község;168;155
+SZA;Szamosújlak;község;187;208
+SZA;Szatmárcseke;község;841;779
+SZA;Székely;község;575;518
+SZA;Szorgalmatos;község;470;458
+SZA;Tákos;község;179;186
+SZA;Terem;község;334;324
+SZA;Tiborszállás;község;467;506
+SZA;Timár;község;639;641
+SZA;Tiszaadony;község;324;325
+SZA;Tiszabercel;község;895;939
+SZA;Tiszabezdéd;község;957;936
+SZA;Tiszacsécse;község;128;126
+SZA;Tiszadada;község;1 080;1 082
+SZA;Tiszaeszlár;község;1 277;1 288
+SZA;Tiszakanyár;község;777;807
+SZA;Tiszakerecseny;község;498;500
+SZA;Tiszakóród;község;390;390
+SZA;Tiszamogyorós;község;324;330
+SZA;Tiszanagyfalu;község;909;933
+SZA;Tiszarád;község;308;289
+SZA;Tiszaszalka;község;449;459
+SZA;Tiszaszentmárton;község;598;587
+SZA;Tiszatelek;község;668;648
+SZA;Tiszavid;község;304;290
+SZA;Tisztaberek;község;367;311
+SZA;Tivadar;község;93;90
+SZA;Tornyospálca;község;1 273;1 272
+SZA;Tunyogmatolcs;község;1 251;1 228
+SZA;Túristvándi;község;391;357
+SZA;Túrricse;község;336;323
+SZA;Újdombrád;község;323;313
+SZA;Újkenéz;község;501;503
+SZA;Ura;község;293;304
+SZA;Uszka;község;306;275
+SZA;Vállaj;község;701;609
+SZA;Vámosatya;község;281;281
+SZA;Vámosoroszi;község;260;258
+SZA;Vasmegyer;község;888;903
+SZA;Zajta;község;220;209
+SZA;Zsarolyán;község;197;206
+SZA;Zsurk;község;336;333
+SZO;Szolnok;vármegye székhely;30 871;34 384
+SZO;Abádszalók;város;1 984;2 086
+SZO;Besenyszög;város;1 585;1 631
+SZO;Fegyvernek;város;3 246;3 243
+SZO;Jászapáti;város;4 073;4 309
+SZO;Jászárokszállás;város;3 623;3 898
+SZO;Jászberény;város;11 974;12 861
+SZO;Jászfényszaru;város;2 843;3 078
+SZO;Jászkisér;város;2 515;2 567
+SZO;Karcag;város;9 169;9 624
+SZO;Kenderes;város;2 065;2 226
+SZO;Kisújszállás;város;5 072;5 258
+SZO;Kunhegyes;város;3 569;3 724
+SZO;Kunszentmárton;város;3 682;3 852
+SZO;Martfű;város;2 802;3 055
+SZO;Mezőtúr;város;7 741;8 219
+SZO;Rákóczifalva;város;2 620;2 661
+SZO;Tiszaföldvár;város;5 129;5 237
+SZO;Tiszafüred;város;5 292;5 563
+SZO;Törökszentmiklós;város;9 697;10 227
+SZO;Túrkeve;város;3 987;4 142
+SZO;Újszász;város;2 929;3 145
+SZO;Cibakháza;nagyközség;1 961;1 871
+SZO;Jászladány;nagyközség;2 794;2 831
+SZO;Kunmadaras;nagyközség;2 620;2 570
+SZO;Öcsöd;nagyközség;1 579;1 638
+SZO;Alattyán;község;1 014;1 067
+SZO;Berekfürdő;község;657;721
+SZO;Csataszög;község;172;159
+SZO;Csépa;község;856;889
+SZO;Cserkeszőlő;község;1 196;1 257
+SZO;Hunyadfalva;község;98;95
+SZO;Jánoshida;község;1 221;1 270
+SZO;Jászágó;község;357;373
+SZO;Jászalsószentgyörgy;község;1 687;1 722
+SZO;Jászboldogháza;község;849;873
+SZO;Jászdózsa;község;1 057;1 112
+SZO;Jászfelsőszentgyörgy;község;919;903
+SZO;Jászivány;község;191;187
+SZO;Jászjákóhalma;község;1 458;1 444
+SZO;Jászszentandrás;község;1 264;1 298
+SZO;Jásztelek;község;807;797
+SZO;Kengyel;község;1 670;1 728
+SZO;Kétpó;község;323;293
+SZO;Kőtelek;község;781;830
+SZO;Kuncsorba;község;280;275
+SZO;Mesterszállás;község;356;348
+SZO;Mezőhék;község;151;170
+SZO;Nagyiván;község;508;523
+SZO;Nagykörű;község;793;825
+SZO;Nagyrév;község;342;317
+SZO;Örményes;község;487;484
+SZO;Pusztamonostor;község;792;821
+SZO;Rákócziújfalu;község;970;956
+SZO;Szajol;község;1 965;1 898
+SZO;Szászberek;község;461;500
+SZO;Szelevény;község;517;503
+SZO;Tiszabő;község;1 203;1 129
+SZO;Tiszabura;község;1 675;1 557
+SZO;Tiszaderzs;község;529;550
+SZO;Tiszagyenda;község;491;515
+SZO;Tiszaigar;község;371;355
+SZO;Tiszainoka;község;202;208
+SZO;Tiszajenő;község;767;786
+SZO;Tiszakürt;község;655;648
+SZO;Tiszaörs;község;682;680
+SZO;Tiszapüspöki;község;1 060;1 066
+SZO;Tiszaroff;község;853;863
+SZO;Tiszasas;község;515;544
+SZO;Tiszasüly;község;722;697
+SZO;Tiszaszentimre;község;946;985
+SZO;Tiszaszőlős;község;741;729
+SZO;Tiszatenyő;község;808;799
+SZO;Tiszavárkony;község;829;764
+SZO;Tomajmonostora;község;365;342
+SZO;Tószeg;község;2 236;2 234
+SZO;Vezseny;község;307;317
+SZO;Zagyvarékas;község;1 886;1 981
+TOL;Szekszárd;vármegye székhely;13 856;15 807
+TOL;Bátaszék;város;3 007;3 234
+TOL;Bonyhád;város;5 741;6 303
+TOL;Dombóvár;város;8 257;9 129
+TOL;Dunaföldvár;város;4 053;4 272
+TOL;Gyönk;város;774;886
+TOL;Nagymányok;város;1 077;1 129
+TOL;Paks;város;8 289;8 975
+TOL;Simontornya;város;1 837;1 944
+TOL;Tamási;város;3 668;4 018
+TOL;Tolna;város;5 328;5 675
+TOL;Decs;nagyközség;1 908;2 113
+TOL;Fadd;nagyközség;2 050;2 038
+TOL;Hőgyész;nagyközség;1 250;1 385
+TOL;Nagydorog;nagyközség;1 272;1 299
+TOL;Pincehely;nagyközség;995;1 101
+TOL;Alsónána;község;323;356
+TOL;Alsónyék;község;348;357
+TOL;Aparhant;község;498;476
+TOL;Attala;község;381;386
+TOL;Báta;község;727;764
+TOL;Bátaapáti;község;192;178
+TOL;Belecska;község;165;161
+TOL;Bikács;község;223;196
+TOL;Bogyiszló;község;1 044;1 071
+TOL;Bonyhádvarasd;község;205;212
+TOL;Bölcske;község;1 317;1 372
+TOL;Cikó;község;456;473
+TOL;Csibrák;község;148;155
+TOL;Csikóstőttős;község;417;414
+TOL;Dalmand;község;598;624
+TOL;Diósberény;község;149;160
+TOL;Döbrököz;község;966;1 006
+TOL;Dunaszentgyörgy;község;1 235;1 252
+TOL;Dúzs;község;126;107
+TOL;Értény;község;401;337
+TOL;Fácánkert;község;359;362
+TOL;Felsőnána;község;305;278
+TOL;Felsőnyék;község;539;531
+TOL;Fürged;község;338;335
+TOL;Gerjen;község;617;612
+TOL;Grábóc;község;80;85
+TOL;Györe;község;296;305
+TOL;Györköny;község;503;517
+TOL;Gyulaj;község;443;438
+TOL;Harc;község;409;416
+TOL;Iregszemcse;község;1 284;1 251
+TOL;Izmény;község;248;230
+TOL;Jágónak;község;119;110
+TOL;Kajdacs;község;566;541
+TOL;Kakasd;község;758;829
+TOL;Kalaznó;község;88;67
+TOL;Kapospula;község;414;472
+TOL;Kaposszekcső;község;741;805
+TOL;Keszőhidegkút;község;96;90
+TOL;Kéty;község;321;340
+TOL;Kisdorog;község;341;327
+TOL;Kismányok;község;169;156
+TOL;Kisszékely;község;151;150
+TOL;Kistormás;község;151;146
+TOL;Kisvejke;község;213;172
+TOL;Kocsola;község;642;607
+TOL;Koppányszántó;község;169;167
+TOL;Kölesd;község;719;711
+TOL;Kurd;község;581;568
+TOL;Lápafő;község;76;86
+TOL;Lengyel;község;228;264
+TOL;Madocsa;község;918;929
+TOL;Magyarkeszi;község;578;583
+TOL;Medina;község;380;360
+TOL;Miszla;község;145;128
+TOL;Mórágy;község;373;332
+TOL;Mőcsény;község;170;171
+TOL;Mucsfa;község;173;156
+TOL;Mucsi;község;260;217
+TOL;Murga;község;30;20
+TOL;Nagykónyi;község;507;523
+TOL;Nagyszékely;község;205;191
+TOL;Nagyszokoly;község;446;451
+TOL;Nagyvejke;község;84;71
+TOL;Nak;község;250;251
+TOL;Németkér;község;832;812
+TOL;Ozora;község;836;795
+TOL;Őcsény;község;1 162;1 178
+TOL;Pálfa;község;740;741
+TOL;Pári;község;317;322
+TOL;Pörböly;község;273;271
+TOL;Pusztahencse;község;494;488
+TOL;Regöly;község;516;555
+TOL;Sárpilis;község;307;288
+TOL;Sárszentlőrinc;község;511;513
+TOL;Sióagárd;község;606;691
+TOL;Szakadát;község;107;125
+TOL;Szakály;község;628;636
+TOL;Szakcs;község;393;397
+TOL;Szálka;község;323;325
+TOL;Szárazd;község;129;115
+TOL;Szedres;község;1 019;1 040
+TOL;Tengelic;község;1 101;1 068
+TOL;Tevel;község;643;681
+TOL;Tolnanémedi;község;432;526
+TOL;Udvari;község;154;118
+TOL;Újireg;község;128;141
+TOL;Váralja;község;392;388
+TOL;Várdomb;község;561;593
+TOL;Várong;község;73;63
+TOL;Varsád;község;174;177
+TOL;Závod;község;151;157
+TOL;Zomba;község;956;983
+VAS;Szombathely;vármegye székhely;34 734;39 074
+VAS;Bük;város;1 734;1 850
+VAS;Celldömölk;város;4 619;5 201
+VAS;Csepreg;város;1 534;1 685
+VAS;Jánosháza;város;1 155;1 221
+VAS;Körmend;város;4 948;5 371
+VAS;Kőszeg;város;5 465;5 819
+VAS;Őriszentpéter;város;533;563
+VAS;Répcelak;város;1 230;1 299
+VAS;Sárvár;város;6 522;7 069
+VAS;Szentgotthárd;város;3 940;4 074
+VAS;Vasvár;város;1 928;2 073
+VAS;Vép;város;1 667;1 710
+VAS;Acsád;község;296;361
+VAS;Alsószölnök;község;171;191
+VAS;Alsóújlak;község;276;288
+VAS;Andrásfa;község;134;115
+VAS;Apátistvánfalva;község;185;219
+VAS;Bajánsenye;község;250;267
+VAS;Balogunyom;község;577;582
+VAS;Bejcgyertyános;község;207;219
+VAS;Bérbaltavár;község;278;252
+VAS;Boba;község;400;390
+VAS;Borgáta;község;134;131
+VAS;Bozsok;község;186;185
+VAS;Bozzai;község;149;148
+VAS;Bő;község;381;371
+VAS;Bögöt;község;197;189
+VAS;Bögöte;község;168;170
+VAS;Bucsu;község;285;312
+VAS;Cák;község;148;172
+VAS;Chernelházadamonya;község;124;117
+VAS;Csákánydoroszló;község;870;873
+VAS;Csánig;község;185;195
+VAS;Csehi;község;132;119
+VAS;Csehimindszent;község;174;169
+VAS;Csempeszkopács;község;173;156
+VAS;Csénye;község;361;366
+VAS;Csipkerek;község;195;197
+VAS;Csönge;község;187;206
+VAS;Csörötnek;község;439;389
+VAS;Daraboshegy;község;52;55
+VAS;Dozmat;község;179;177
+VAS;Döbörhegy;község;81;76
+VAS;Döröske;község;71;65
+VAS;Duka;község;135;129
+VAS;Egervölgy;község;190;163
+VAS;Egyházashetye;község;158;157
+VAS;Egyházashollós;község;285;276
+VAS;Egyházasrádóc;község;681;643
+VAS;Felsőcsatár;község;246;257
+VAS;Felsőjánosfa;község;90;100
+VAS;Felsőmarác;község;132;147
+VAS;Felsőszölnök;község;286;272
+VAS;Gasztony;község;229;211
+VAS;Gencsapáti;község;1 351;1 365
+VAS;Gérce;község;547;558
+VAS;Gersekarát;község;345;334
+VAS;Gór;község;189;168
+VAS;Gyanógeregye;község;81;82
+VAS;Gyöngyösfalu;község;571;567
+VAS;Győrvár;község;319;312
+VAS;Halastó;község;45;45
+VAS;Halogy;község;138;137
+VAS;Harasztifalu;község;103;101
+VAS;Hegyfalu;község;385;378
+VAS;Hegyháthodász;község;87;64
+VAS;Hegyhátsál;község;53;75
+VAS;Hegyhátszentjakab;község;140;130
+VAS;Hegyhátszentmárton;község;34;30
+VAS;Hegyhátszentpéter;község;71;67
+VAS;Horvátlövő;község;95;94
+VAS;Horvátzsidány;község;403;432
+VAS;Hosszúpereszteg;község;310;337
+VAS;Ikervár;község;814;857
+VAS;Iklanberény;község;30;32
+VAS;Ispánk;község;53;52
+VAS;Ivánc;község;337;313
+VAS;Ják;község;1 344;1 330
+VAS;Jákfa;község;256;235
+VAS;Káld;község;501;537
+VAS;Kám;község;209;239
+VAS;Karakó;község;103;108
+VAS;Katafa;község;173;159
+VAS;Keléd;község;57;37
+VAS;Kemeneskápolna;község;56;54
+VAS;Kemenesmagasi;község;439;458
+VAS;Kemenesmihályfa;község;262;255
+VAS;Kemenespálfa;község;205;189
+VAS;Kemenessömjén;község;249;266
+VAS;Kemenesszentmárton;község;105;113
+VAS;Kemestaródfa;község;124;125
+VAS;Kenéz;község;128;135
+VAS;Kenyeri;község;418;425
+VAS;Kercaszomor;község;108;100
+VAS;Kerkáskápolna;község;46;43
+VAS;Kétvölgy;község;54;54
+VAS;Kisrákos;község;95;73
+VAS;Kissomlyó;község;129;135
+VAS;Kisunyom;község;236;248
+VAS;Kiszsidány;község;43;55
+VAS;Kondorfa;község;254;264
+VAS;Köcsk;község;151;132
+VAS;Kőszegdoroszló;község;158;142
+VAS;Kőszegpaty;község;126;98
+VAS;Kőszegszerdahely;község;289;267
+VAS;Lócs;község;89;78
+VAS;Lukácsháza;község;569;558
+VAS;Magyarlak;község;378;402
+VAS;Magyarnádalja;község;150;140
+VAS;Magyarszecsőd;község;216;212
+VAS;Magyarszombatfa;község;122;136
+VAS;Meggyeskovácsi;község;388;380
+VAS;Megyehíd;község;152;164
+VAS;Mersevát;község;297;289
+VAS;Mesterháza;község;84;88
+VAS;Mesteri;község;149;146
+VAS;Meszlen;község;107;114
+VAS;Mikosszéplak;község;166;166
+VAS;Molnaszecsőd;község;226;208
+VAS;Nádasd;község;677;685
+VAS;Nagygeresd;község;134;140
+VAS;Nagykölked;község;97;88
+VAS;Nagymizdó;község;68;51
+VAS;Nagyrákos;község;138;118
+VAS;Nagysimonyi;község;462;477
+VAS;Nagytilaj;község;93;92
+VAS;Nárai;község;769;784
+VAS;Narda;község;234;244
+VAS;Nemesbőd;község;352;335
+VAS;Nemescsó;község;168;151
+VAS;Nemeskeresztúr;község;142;159
+VAS;Nemeskocs;község;162;165
+VAS;Nemeskolta;község;183;201
+VAS;Nemesládony;község;84;91
+VAS;Nemesmedves;község;15;12
+VAS;Nemesrempehollós;község;137;135
+VAS;Nick;község;277;287
+VAS;Nyőgér;község;184;181
+VAS;Olaszfa;község;198;221
+VAS;Ólmod;község;61;53
+VAS;Orfalu;község;41;31
+VAS;Ostffyasszonyfa;község;382;395
+VAS;Oszkó;község;306;314
+VAS;Ölbő;község;351;359
+VAS;Őrimagyarósd;község;108;106
+VAS;Pácsony;község;147;149
+VAS;Pankasz;község;206;218
+VAS;Pápoc;község;169;179
+VAS;Pecöl;község;389;385
+VAS;Perenye;község;319;320
+VAS;Peresznye;község;231;274
+VAS;Petőmihályfa;község;108;108
+VAS;Pinkamindszent;község;92;85
+VAS;Pornóapáti;község;166;192
+VAS;Porpác;község;80;76
+VAS;Pósfa;község;138;131
+VAS;Pusztacsó;község;71;86
+VAS;Püspökmolnári;község;443;463
+VAS;Rábagyarmat;község;393;352
+VAS;Rábahídvég;község;459;498
+VAS;Rábapaty;község;884;899
+VAS;Rábatöttös;község;124;100
+VAS;Rádóckölked;község;168;152
+VAS;Rátót;község;126;118
+VAS;Répceszentgyörgy;község;68;67
+VAS;Rönök;község;186;184
+VAS;Rum;község;611;634
+VAS;Sajtoskál;község;215;203
+VAS;Salköveskút;község;247;234
+VAS;Sárfimizdó;község;48;44
+VAS;Sé;község;687;690
+VAS;Simaság;község;272;261
+VAS;Sitke;község;373;365
+VAS;Sorkifalud;község;318;330
+VAS;Sorkikápolna;község;123;124
+VAS;Sorokpolány;község;381;419
+VAS;Sótony;község;329;318
+VAS;Söpte;község;400;405
+VAS;Szaknyér;község;28;21
+VAS;Szakonyfalu;község;180;176
+VAS;Szalafő;község;106;116
+VAS;Szarvaskend;község;126;101
+VAS;Szatta;község;33;31
+VAS;Szeleste;község;330;350
+VAS;Szemenye;község;166;182
+VAS;Szentpéterfa;község;486;514
+VAS;Szergény;község;139;154
+VAS;Szőce;község;180;179
+VAS;Tanakajd;község;409;402
+VAS;Táplánszentkereszt;község;1 323;1 346
+VAS;Telekes;község;214;243
+VAS;Tokorcs;község;187;189
+VAS;Tompaládony;község;181;169
+VAS;Tormásliget;község;152;155
+VAS;Torony;község;1 010;1 054
+VAS;Tömörd;község;152;135
+VAS;Uraiújfalu;község;404;435
+VAS;Vámoscsalád;község;149;159
+VAS;Vasalja;község;150;165
+VAS;Vásárosmiske;község;181;185
+VAS;Vasasszonyfa;község;236;205
+VAS;Vasegerszeg;község;158;204
+VAS;Vashosszúfalu;község;173;179
+VAS;Vaskeresztes;község;180;164
+VAS;Vassurány;község;371;385
+VAS;Vasszécseny;község;652;653
+VAS;Vasszentmihály;község;170;173
+VAS;Vasszilvágy;község;212;194
+VAS;Vát;község;324;330
+VAS;Velem;község;186;206
+VAS;Velemér;község;41;37
+VAS;Viszák;község;141;123
+VAS;Vönöck;község;353;339
+VAS;Zsédeny;község;122;124
+VAS;Zsennye;község;55;56
+VES;Veszprém;vármegye székhely;24 244;27 484
+VES;Ajka;város;12 689;13 890
+VES;Badacsonytomaj;város;1 042;1 100
+VES;Balatonalmádi;város;4 919;5 253
+VES;Balatonfüred;város;6 176;7 003
+VES;Balatonfűzfő;város;2 182;2 331
+VES;Balatonkenese;város;1 346;1 368
+VES;Berhida;város;2 946;2 977
+VES;Devecser;város;2 221;2 226
+VES;Herend;város;1 794;1 810
+VES;Pápa;város;13 362;14 786
+VES;Sümeg;város;2 781;3 000
+VES;Tapolca;város;6 739;7 542
+VES;Várpalota;város;9 426;10 010
+VES;Zirc;város;3 101;3 292
+VES;Pétfürdő;nagyközség;2 094;2 336
+VES;Révfülöp;nagyközség;615;625
+VES;Ábrahámhegy;község;322;308
+VES;Adásztevel;község;395;417
+VES;Adorjánháza;község;191;195
+VES;Alsóörs;község;1 001;1 058
+VES;Apácatorna;község;88;90
+VES;Aszófő;község;253;233
+VES;Badacsonytördemic;község;467;455
+VES;Bakonybél;község;555;577
+VES;Bakonyjákó;község;393;364
+VES;Bakonykoppány;község;97;105
+VES;Bakonynána;község;468;498
+VES;Bakonyoszlop;község;225;233
+VES;Bakonypölöske;község;211;206
+VES;Bakonyság;község;33;40
+VES;Bakonyszentiván;község;114;102
+VES;Bakonyszentkirály;község;411;405
+VES;Bakonyszücs;község;132;114
+VES;Bakonytamási;község;304;287
+VES;Balatonakali;község;369;353
+VES;Balatonakarattya;község;567;515
+VES;Balatoncsicsó;község;120;143
+VES;Balatonederics;község;552;555
+VES;Balatonfőkajár;község;690;715
+VES;Balatonhenye;község;69;69
+VES;Balatonrendes;község;104;102
+VES;Balatonszepezd;község;242;235
+VES;Balatonszőlős;község;325;315
+VES;Balatonudvari;község;189;209
+VES;Bánd;község;384;366
+VES;Barnag;község;73;63
+VES;Bazsi;község;247;216
+VES;Béb;község;140;147
+VES;Békás;község;118;96
+VES;Bodorfa;község;54;38
+VES;Borszörcsök;község;194;200
+VES;Borzavár;község;396;364
+VES;Csabrendek;község;1 505;1 500
+VES;Csajág;község;416;421
+VES;Csehbánya;község;161;145
+VES;Csesznek;község;266;237
+VES;Csetény;község;920;919
+VES;Csopak;község;1 068;1 151
+VES;Csót;község;460;495
+VES;Csögle;község;294;301
+VES;Dabronc;község;219;225
+VES;Dabrony;község;226;214
+VES;Dáka;község;320;341
+VES;Doba;község;237;230
+VES;Döbrönte;község;150;132
+VES;Dörgicse;község;153;164
+VES;Dudar;község;875;879
+VES;Egeralja;község;112;108
+VES;Egyházaskesző;község;256;249
+VES;Eplény;község;289;272
+VES;Farkasgyepű;község;185;199
+VES;Felsőörs;község;1 057;1 095
+VES;Ganna;község;139;137
+VES;Gecse;község;179;216
+VES;Gic;község;177;163
+VES;Gógánfa;község;390;362
+VES;Gyepükaján;község;179;182
+VES;Gyulakeszi;község;354;335
+VES;Hajmáskér;község;1 473;1 558
+VES;Halimba;község;597;615
+VES;Hárskút;község;345;349
+VES;Hegyesd;község;91;80
+VES;Hegymagas;község;151;148
+VES;Hetyefő;község;46;52
+VES;Hidegkút;község;245;247
+VES;Homokbödöge;község;324;334
+VES;Hosztót;község;37;40
+VES;Iszkáz;község;190;178
+VES;Jásd;község;336;345
+VES;Kamond;község;234;198
+VES;Kapolcs;község;199;214
+VES;Káptalanfa;község;410;382
+VES;Káptalantóti;község;269;221
+VES;Karakószörcsök;község;152;148
+VES;Kékkút;község;36;25
+VES;Kemeneshőgyész;község;250;240
+VES;Kemenesszentpéter;község;330;333
+VES;Kerta;község;285;268
+VES;Királyszentistván;község;246;241
+VES;Kisapáti;község;192;173
+VES;Kisberzseny;község;55;58
+VES;Kiscsősz;község;50;60
+VES;Kislőd;község;648;590
+VES;Kispirit;község;45;38
+VES;Kisszőlős;község;64;73
+VES;Kolontár;község;358;386
+VES;Kővágóörs;község;371;327
+VES;Köveskál;község;181;154
+VES;Kup;község;221;216
+VES;Külsővat;község;326;355
+VES;Küngös;község;288;254
+VES;Lesencefalu;község;160;151
+VES;Lesenceistvánd;község;509;480
+VES;Lesencetomaj;község;552;541
+VES;Litér;község;1 162;1 132
+VES;Lókút;község;259;232
+VES;Lovas;község;307;270
+VES;Lovászpatona;község;629;631
+VES;Magyargencs;község;245;257
+VES;Magyarpolány;község;685;664
+VES;Malomsok;község;266;263
+VES;Marcalgergelyi;község;192;180
+VES;Marcaltő;község;375;389
+VES;Márkó;község;948;964
+VES;Megyer;község;18;12
+VES;Mencshely;község;133;168
+VES;Mezőlak;község;496;492
+VES;Mihályháza;község;374;345
+VES;Mindszentkálla;község;122;117
+VES;Monostorapáti;község;576;563
+VES;Monoszló;község;59;57
+VES;Nagyacsád;község;329;307
+VES;Nagyalásony;község;276;254
+VES;Nagydém;község;177;164
+VES;Nagyesztergár;község;590;579
+VES;Nagygyimót;község;278;266
+VES;Nagypirit;község;124;119
+VES;Nagytevel;község;273;261
+VES;Nagyvázsony;község;922;893
+VES;Nemesgörzsöny;község;330;323
+VES;Nemesgulács;község;492;494
+VES;Nemeshany;község;197;167
+VES;Nemesszalók;község;439;400
+VES;Nemesvámos;község;1 590;1 568
+VES;Nemesvita;község;178;187
+VES;Németbánya;község;68;61
+VES;Nóráp;község;87;104
+VES;Noszlop;község;521;501
+VES;Nyárád;község;464;469
+VES;Nyirád;község;906;978
+VES;Óbudavár;község;34;26
+VES;Olaszfalu;község;544;518
+VES;Oroszi;község;74;70
+VES;Öcs;község;103;120
+VES;Örvényes;község;91;79
+VES;Ősi;község;1 042;1 014
+VES;Öskü;község;1 133;1 128
+VES;Paloznak;község;323;297
+VES;Pápadereske;község;172;155
+VES;Pápakovácsi;község;275;282
+VES;Pápasalamon;község;191;181
+VES;Pápateszér;község;646;618
+VES;Papkeszi;község;785;767
+VES;Pécsely;község;301;323
+VES;Pénzesgyőr;község;176;153
+VES;Porva;község;261;234
+VES;Pula;község;85;96
+VES;Pusztamiske;község;212;212
+VES;Raposka;község;138;146
+VES;Rigács;község;113;104
+VES;Salföld;község;41;44
+VES;Sáska;község;149;141
+VES;Sóly;község;291;286
+VES;Somlójenő;község;146;168
+VES;Somlószőlős;község;315;319
+VES;Somlóvásárhely;község;572;513
+VES;Somlóvecse;község;49;42
+VES;Sümegprága;község;282;311
+VES;Szápár;község;227;260
+VES;Szentantalfa;község;286;283
+VES;Szentbékkálla;község;103;99
+VES;Szentgál;község;1 424;1 354
+VES;Szentimrefalva;község;95;92
+VES;Szentjakabfa;község;57;64
+VES;Szentkirályszabadja;község;1 108;1 071
+VES;Szigliget;község;475;471
+VES;Szőc;község;221;236
+VES;Tagyon;község;57;54
+VES;Takácsi;község;445;416
+VES;Taliándörögd;község;333;334
+VES;Tés;község;460;438
+VES;Tihany;község;666;697
+VES;Tótvázsony;község;724;724
+VES;Tüskevár;község;285;277
+VES;Ugod;község;618;659
+VES;Ukk;község;156;152
+VES;Úrkút;község;943;1 017
+VES;Uzsa;község;155;156
+VES;Vanyola;község;286;266
+VES;Várkesző;község;79;101
+VES;Városlőd;község;651;676
+VES;Vaszar;község;797;811
+VES;Vászoly;község;151;142
+VES;Veszprémfajsz;község;121;129
+VES;Veszprémgalsa;község;154;150
+VES;Vid;község;62;64
+VES;Vigántpetend;község;103;96
+VES;Vilonya;község;387;344
+VES;Vinár;község;107;113
+VES;Vöröstó;község;61;54
+VES;Zalaerdőd;község;128;130
+VES;Zalagyömörő;község;208;215
+VES;Zalahaláp;község;660;664
+VES;Zalameggyes;község;37;32
+VES;Zalaszegvár;község;77;65
+VES;Zánka;község;511;562
+ZAL;Zalaegerszeg;vármegye székhely;25 298;28 377
+ZAL;Nagykanizsa;vármegyei jogú város;20 343;22 878
+ZAL;Hévíz;város;2 192;2 561
+ZAL;Keszthely;város;8 331;9 728
+ZAL;Lenti;város;3 535;3 859
+ZAL;Letenye;város;1 848;2 019
+ZAL;Pacsa;város;798;786
+ZAL;Zalakaros;város;1 491;1 547
+ZAL;Zalalövő;város;1 401;1 421
+ZAL;Zalaszentgrót;város;3 027;3 130
+ZAL;Gyenesdiás;nagyközség;2 116;2 255
+ZAL;Vonyarcvashegy;nagyközség;1 377;1 417
+ZAL;Alibánfa;község;213;207
+ZAL;Almásháza;község;43;37
+ZAL;Alsónemesapáti;község;338;323
+ZAL;Alsópáhok;község;769;834
+ZAL;Alsórajk;község;161;172
+ZAL;Alsószenterzsébet;község;29;20
+ZAL;Babosdöbréte;község;261;264
+ZAL;Baglad;község;26;33
+ZAL;Bagod;község;615;591
+ZAL;Bak;község;778;828
+ZAL;Baktüttös;község;168;178
+ZAL;Balatongyörök;község;767;770
+ZAL;Balatonmagyaród;község;240;250
+ZAL;Bánokszentgyörgy;község;298;292
+ZAL;Barlahida;község;75;62
+ZAL;Batyk;község;206;204
+ZAL;Bázakerettye;község;367;365
+ZAL;Becsehely;község;992;1 014
+ZAL;Becsvölgye;község;367;380
+ZAL;Belezna;község;326;318
+ZAL;Belsősárd;község;63;50
+ZAL;Bezeréd;község;89;79
+ZAL;Bocfölde;község;582;593
+ZAL;Bocska;község;146;153
+ZAL;Bókaháza;község;151;144
+ZAL;Boncodfölde;község;185;189
+ZAL;Borsfa;község;344;340
+ZAL;Böde;község;126;148
+ZAL;Bödeháza;község;25;28
+ZAL;Börzönce;község;19;26
+ZAL;Búcsúszentlászló;község;347;367
+ZAL;Bucsuta;község;103;106
+ZAL;Csapi;község;93;93
+ZAL;Csatár;község;261;281
+ZAL;Cserszegtomaj;község;1 997;1 984
+ZAL;Csertalakos;község;22;19
+ZAL;Csesztreg;község;407;445
+ZAL;Csonkahegyhát;község;157;187
+ZAL;Csöde;község;35;35
+ZAL;Csömödér;község;324;313
+ZAL;Csörnyeföld;község;185;212
+ZAL;Dióskál;község;244;232
+ZAL;Dobri;község;69;70
+ZAL;Dobronhegy;község;87;75
+ZAL;Döbröce;község;42;39
+ZAL;Dötk;község;27;26
+ZAL;Egeraracsa;község;186;169
+ZAL;Egervár;község;519;548
+ZAL;Eszteregnye;község;335;336
+ZAL;Esztergályhorváti;község;239;235
+ZAL;Felsőpáhok;község;380;406
+ZAL;Felsőrajk;község;415;393
+ZAL;Felsőszenterzsébet;község;11;7
+ZAL;Fityeház;község;301;323
+ZAL;Fűzvölgy;község;74;63
+ZAL;Gáborjánháza;község;39;37
+ZAL;Galambok;község;697;671
+ZAL;Garabonc;község;367;350
+ZAL;Gellénháza;község;733;778
+ZAL;Gelse;község;506;515
+ZAL;Gelsesziget;község;137;129
+ZAL;Gétye;község;64;62
+ZAL;Gombosszeg;község;39;35
+ZAL;Gosztola;község;50;45
+ZAL;Gősfa;község;155;155
+ZAL;Gutorfölde;község;464;424
+ZAL;Gyűrűs;község;44;46
+ZAL;Hagyárosbörönd;község;146;136
+ZAL;Hahót;község;494;498
+ZAL;Hernyék;község;51;44
+ZAL;Homokkomárom;község;134;125
+ZAL;Hosszúvölgy;község;94;96
+ZAL;Hottó;község;165;179
+ZAL;Iborfia;község;10;6
+ZAL;Iklódbördőce;község;154;142
+ZAL;Kacorlak;község;99;100
+ZAL;Kallósd;község;56;48
+ZAL;Kálócfa;község;76;65
+ZAL;Kányavár;község;71;63
+ZAL;Karmacs;község;371;419
+ZAL;Kávás;község;122;131
+ZAL;Kehidakustány;község;614;623
+ZAL;Kemendollár;község;228;237
+ZAL;Keménfa;község;44;43
+ZAL;Kerecseny;község;132;138
+ZAL;Kerkabarabás;község;149;149
+ZAL;Kerkafalva;község;66;66
+ZAL;Kerkakutas;község;66;68
+ZAL;Kerkaszentkirály;község;103;116
+ZAL;Kerkateskánd;község;105;83
+ZAL;Kilimán;község;108;118
+ZAL;Kisbucsa;község;222;199
+ZAL;Kiscsehi;község;93;87
+ZAL;Kisgörbő;község;103;93
+ZAL;Kiskutas;község;102;102
+ZAL;Kispáli;község;141;143
+ZAL;Kisrécse;község;102;94
+ZAL;Kissziget;község;83;84
+ZAL;Kistolmács;község;73;91
+ZAL;Kisvásárhely;község;34;38
+ZAL;Kozmadombja;község;23;15
+ZAL;Kustánszeg;község;244;237
+ZAL;Külsősárd;község;33;40
+ZAL;Lakhegy;község;210;230
+ZAL;Lasztonya;község;27;26
+ZAL;Lendvadedes;község;17;16
+ZAL;Lendvajakabfa;község;34;30
+ZAL;Lickóvadamos;község;108;102
+ZAL;Ligetfalva;község;38;46
+ZAL;Lispeszentadorján;község;134;144
+ZAL;Liszó;község;178;188
+ZAL;Lovászi;község;575;609
+ZAL;Magyarföld;község;28;26
+ZAL;Magyarszentmiklós;község;128;130
+ZAL;Magyarszerdahely;község;217;244
+ZAL;Maróc;község;33;34
+ZAL;Márokföld;község;42;38
+ZAL;Miháld;község;385;405
+ZAL;Mihályfa;község;202;165
+ZAL;Mikekarácsonyfa;község;159;174
+ZAL;Milejszeg;község;161;158
+ZAL;Misefa;község;135;135
+ZAL;Molnári;község;344;332
+ZAL;Murakeresztúr;község;803;828
+ZAL;Murarátka;község;118;118
+ZAL;Muraszemenye;község;240;246
+ZAL;Nagybakónak;község;207;209
+ZAL;Nagygörbő;község;103;94
+ZAL;Nagykapornak;község;428;459
+ZAL;Nagykutas;község;221;238
+ZAL;Nagylengyel;község;240;244
+ZAL;Nagypáli;község;315;286
+ZAL;Nagyrada;község;251;231
+ZAL;Nagyrécse;község;569;589
+ZAL;Nemesapáti;község;265;244
+ZAL;Nemesbük;község;415;453
+ZAL;Nemeshetés;község;144;129
+ZAL;Nemesnép;község;70;67
+ZAL;Nemespátró;község;135;141
+ZAL;Nemesrádó;község;161;169
+ZAL;Nemessándorháza;község;177;160
+ZAL;Nemesszentandrás;község;134;123
+ZAL;Németfalu;község;96;115
+ZAL;Nova;község;384;410
+ZAL;Óhíd;község;269;262
+ZAL;Oltárc;község;123;110
+ZAL;Orbányosfa;község;49;53
+ZAL;Ormándlak;község;61;60
+ZAL;Orosztony;község;207;195
+ZAL;Ortaháza;község;52;52
+ZAL;Ozmánbük;község;90;94
+ZAL;Padár;község;65;56
+ZAL;Páka;község;522;526
+ZAL;Pakod;község;436;435
+ZAL;Pálfiszeg;község;75;78
+ZAL;Pat;község;113;105
+ZAL;Pethőhenye;község;227;214
+ZAL;Petrikeresztúr;község;171;186
+ZAL;Petrivente;község;151;177
+ZAL;Pókaszepetk;község;474;463
+ZAL;Pórszombat;község;127;137
+ZAL;Pölöske;község;411;401
+ZAL;Pölöskefő;község;205;191
+ZAL;Pördefölde;község;41;35
+ZAL;Pötréte;község;156;157
+ZAL;Pusztaapáti;község;11;9
+ZAL;Pusztaederics;község;92;83
+ZAL;Pusztamagyaród;község;272;283
+ZAL;Pusztaszentlászló;község;266;293
+ZAL;Ramocsa;község;18;13
+ZAL;Rédics;község;482;465
+ZAL;Resznek;község;132;136
+ZAL;Rezi;község;763;757
+ZAL;Rigyác;község;196;200
+ZAL;Salomvár;község;308;288
+ZAL;Sand;község;184;202
+ZAL;Sárhida;község;359;372
+ZAL;Sármellék;község;898;965
+ZAL;Semjénháza;község;286;258
+ZAL;Sénye;község;41;35
+ZAL;Sormás;község;400;397
+ZAL;Söjtör;község;770;746
+ZAL;Surd;község;279;296
+ZAL;Sümegcsehi;község;280;308
+ZAL;Szalapa;község;86;92
+ZAL;Szécsisziget;község;100;96
+ZAL;Szentgyörgyvár;község;203;195
+ZAL;Szentgyörgyvölgy;község;189;199
+ZAL;Szentkozmadombja;község;33;41
+ZAL;Szentliszló;község;131;145
+ZAL;Szentmargitfalva;község;46;38
+ZAL;Szentpéterfölde;község;60;69
+ZAL;Szentpéterúr;község;511;518
+ZAL;Szepetnek;község;738;803
+ZAL;Szijártóháza;község;23;25
+ZAL;Szilvágy;község;94;93
+ZAL;Tekenye;község;222;232
+ZAL;Teskánd;község;645;642
+ZAL;Tilaj;község;107;98
+ZAL;Tófej;község;342;341
+ZAL;Tormafölde;község;182;167
+ZAL;Tornyiszentmiklós;község;247;252
+ZAL;Tótszentmárton;község;398;374
+ZAL;Tótszerdahely;község;552;598
+ZAL;Türje;község;810;832
+ZAL;Újudvar;község;476;476
+ZAL;Valkonya;község;36;33
+ZAL;Vállus;község;60;55
+ZAL;Várfölde;község;102;99
+ZAL;Várvölgy;község;517;497
+ZAL;Vasboldogasszony;község;269;275
+ZAL;Vaspör;község;188;183
+ZAL;Vindornyafok;község;70;67
+ZAL;Vindornyalak;község;42;49
+ZAL;Vindornyaszőlős;község;183;173
+ZAL;Vöckönd;község;47;56
+ZAL;Zajk;község;101;107
+ZAL;Zalaapáti;község;871;858
+ZAL;Zalabaksa;község;301;310
+ZAL;Zalabér;község;349;392
+ZAL;Zalaboldogfa;község;198;186
+ZAL;Zalacsány;község;590;560
+ZAL;Zalacséb;község;238;257
+ZAL;Zalaháshágy;község;193;176
+ZAL;Zalaigrice;község;52;49
+ZAL;Zalaistvánd;község;187;186
+ZAL;Zalakomár;község;1 453;1 512
+ZAL;Zalaköveskút;község;26;19
+ZAL;Zalamerenye;község;112;110
+ZAL;Zalasárszeg;község;76;72
+ZAL;Zalaszabar;község;299;300
+ZAL;Zalaszántó;község;531;496
+ZAL;Zalaszentbalázs;község;427;415
+ZAL;Zalaszentgyörgy;község;206;210
+ZAL;Zalaszentiván;község;496;544
+ZAL;Zalaszentjakab;község;168;173
+ZAL;Zalaszentlászló;község;385;423
+ZAL;Zalaszentlőrinc;község;139;122
+ZAL;Zalaszentmárton;község;37;38
+ZAL;Zalaszentmihály;község;500;519
+ZAL;Zalaszombatfa;község;22;25
+ZAL;Zalatárnok;község;315;330
+ZAL;Zalaújlak;község;59;61
+ZAL;Zalavár;község;464;476
+ZAL;Zalavég;község;187;158
+ZAL;Zebecke;község;37;34
