@@ -27,7 +27,7 @@ def main():
     lista = fajlolvasas()
     while True:
         print()
-        print("\t[1] Megye adatai - [2] Település típusai - [X] Kilépés a programból")
+        print("\t[1] Megye adatai - [2] Település típusok - [X] Kilépés a programból")
         print()
 
         valasztas = input("Kérem válasszon a fenti menüpontok közül: ").strip()
@@ -41,7 +41,7 @@ def main():
             megye_adatai(lista)
 
         elif valasztas == "2":
-            pass
+            telepules_tipusok(lista)
 
         else:
             print()
@@ -76,6 +76,16 @@ def megye_adatai(lista):
         if telepules_szam == 0:
             print("------------------------------")
             print("Nem található ilyen megyekód!")
+
+def telepules_tipusok(lista):
+    tipusok = []
+    for t in lista:
+        if t["tipus"] not in tipusok:
+            tipusok.append(t["tipus"])
+
+    print()
+    print(" - ".join(f"{i}. {elem}" for i, elem in enumerate(tipusok, start=1)))
+
                 
 
 main()
