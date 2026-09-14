@@ -19,7 +19,7 @@ def fajlolvasas():
 
 def kilepes():
     print()
-    print("A programból való kilépés megtörtént!")
+    print("Visszatérés a főmenübe...")
     print()
     
 
@@ -33,7 +33,8 @@ def main():
         valasztas = input("Kérem válasszon a fenti menüpontok közül: ").strip()
 
         if valasztas.upper() == "X":
-            kilepes()
+            print()
+            print("Kilépés a programból...")
             break
             
 
@@ -78,13 +79,37 @@ def megye_adatai(lista):
             print("Nem található ilyen megyekód!")
 
 def telepules_tipusok(lista):
-    tipusok = []
-    for t in lista:
-        if t["tipus"] not in tipusok:
-            tipusok.append(t["tipus"])
+    while True:
+        print()
+        print("\t[a] község - [b] város - [c] nagyközség - [d] fővárosi kerület - [e] vármegye székhely - [f] vármegyei jogú város")
+        print()
+        valasztott_tipus = input("Kérem adja meg a keresett település típusát (kilépéshez - X): ").strip().lower()
+        print()
+        if valasztott_tipus == "x":
+            kilepes()
+            break
+            
+        tipusok = {
+            "a": "község",
+            "b": "város",
+            "c": "nagyközség",
+            "d": "fővárosi kerület",
+            "e": "vármegye székhely",
+            "f": "vármegyei jogú város",
+        }
 
-    print()
-    print(" - ".join(f"{i}. {elem}" for i, elem in enumerate(tipusok, start=1)))
+        keresett_tipus = tipusok.get(valasztott_tipus)
+        if keresett_tipus is not None:
+            for telepules in lista:
+                if telepules["tipus"] == keresett_tipus:
+                    lakossag = telepules["ferfi"] + telepules["no"]
+                    print(
+                        f"{telepules['telepules']} - {telepules['tipus']} - {lakossag} fő")
+
+
+
+
+
 
                 
 
