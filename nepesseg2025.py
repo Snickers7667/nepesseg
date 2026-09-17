@@ -65,7 +65,9 @@ def megye_adatai(lista):
                         if "város" in t["tipus"] or  t["tipus"] == "vármegye székhely":
                             varosban_elo_lakossag += (t["ferfi"] + t["no"])
 
+
                         print()
+                        print(f"Település neve: {t['telepules']}")
                         print("----------------")
                         print(f"Települések száma a keresett megyében: {telepules_szam} db")
                         print("----------------")
@@ -99,6 +101,12 @@ def telepules_tipusok(lista):
         }
 
         keresett_tipus = tipusok.get(valasztott_tipus)
+
+        if valasztott_tipus not in ["a", "b", "c", "d", "e", "f"]:
+            print("Érvénytelen parancs. Kérem próbálja újra.")
+            kilepes()
+            break
+
         if keresett_tipus is not None:
             for telepules in lista:
                 if telepules["tipus"] == keresett_tipus:
