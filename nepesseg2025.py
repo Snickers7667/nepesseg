@@ -1,3 +1,5 @@
+import os
+
 def fajlolvasas():
     lista = []
 
@@ -49,6 +51,7 @@ def main():
             print("Érvénytelen parancs. Kérem próbálja újra.")
 
 def megye_adatai(lista):
+    lista2 = lista
     while True:
         megyekod_input = input("Kérem adja meg a keresett megye kódját (kilépéshez - X): ").strip().upper()
         if megyekod_input == "X":
@@ -58,23 +61,24 @@ def megye_adatai(lista):
             telepules_szam = 0
             megye_lakossag = 0
             varosban_elo_lakossag = 0
-            for t in lista:
-                if t["megyekod"] == megyekod_input:
-                        telepules_szam += 1
-                        megye_lakossag += (t["ferfi"] + t["no"])
-                        if "város" in t["tipus"] or  t["tipus"] == "vármegye székhely":
-                            varosban_elo_lakossag += (t["ferfi"] + t["no"])
+            for t in lista2:
+                    if t["megyekod"] == megyekod_input:
+                            telepules_szam += 1
+                            megye_lakossag += (t["ferfi"] + t["no"])
+                            if "város" in t["tipus"] or  t["tipus"] == "vármegye székhely":
+                                varosban_elo_lakossag += (t["ferfi"] + t["no"])
 
+                                print()
+                                print(f"Település neve: {t['telepules']}")
+                                print("----------------")
+                                print(f"Települések száma a keresett megyében: {telepules_szam} db")
+                                print("----------------")
+                                print(f"Keresett megyében élők száma: {megye_lakossag} fő")
+                                print("----------------")
+                                print(f"Városban élők száma: {varosban_elo_lakossag} fő")
+                                print()
 
-                        print()
-                        print(f"Település neve: {t['telepules']}")
-                        print("----------------")
-                        print(f"Települések száma a keresett megyében: {telepules_szam} db")
-                        print("----------------")
-                        print(f"Keresett megyében élők száma: {megye_lakossag} fő")
-                        print("----------------")
-                        print(f"Városban élők száma: {varosban_elo_lakossag} fő")
-                        print()
+                    
 
         if telepules_szam == 0:
             print("------------------------------")
