@@ -58,32 +58,51 @@ def megye_adatai(lista):
             kilepes()
             break
         else:
-            telepules_szam = 0
-            megye_lakossag = 0
-            varosban_elo_lakossag = 0
-            for t in lista2:
-                    if t["megyekod"] == megyekod_input:
-                            telepules_szam += 1
-                            megye_lakossag += (t["ferfi"] + t["no"])
-                            if "város" in t["tipus"] or  t["tipus"] == "vármegye székhely":
-                                varosban_elo_lakossag += (t["ferfi"] + t["no"])
+            for i in range(len(lista2)):
+                if len(lista2) == 0:
+                    print("Nincs több adat a keresett megyekódhoz.")
+                    kilepes()
+                    break
+                else:
+                    kiiaras(lista2, megyekod_input)
+                    tovabb = input("Szeretne tovább menni (I/N): ").strip().upper()
+                    if tovabb == "N":
+                        kilepes()
+                        break
+                    else:
+                        kiiaras(lista2, megyekod_input)
+                
 
-                                print()
-                                print(f"Település neve: {t['telepules']}")
-                                print("----------------")
-                                print(f"Települések száma a keresett megyében: {telepules_szam} db")
-                                print("----------------")
-                                print(f"Keresett megyében élők száma: {megye_lakossag} fő")
-                                print("----------------")
-                                print(f"Városban élők száma: {varosban_elo_lakossag} fő")
-                                print()
 
-                    
 
-        if telepules_szam == 0:
-            print("------------------------------")
-            print("Nem található ilyen megyekód!")
+def kiiaras(lista2, megyekod_input):
+         telepules_szam = 0
+         megye_lakossag = 0
+         varosban_elo_lakossag = 0
+         for t in lista2[0:4]:
+             if t["megyekod"] == megyekod_input:
+                     telepules_szam += 1
+                     megye_lakossag += (t["ferfi"] + t["no"])
+                     if "város" in t["tipus"] or  t["tipus"] == "vármegye székhely":
+                         varosban_elo_lakossag += (t["ferfi"] + t["no"])
+          
+                         print()
+                         print(f"Település neve: {t['telepules']}")
+                         print("----------------")
+                         print(f"Települések száma a keresett megyében: {telepules_szam} db")
+                         print("----------------")
+                         print(f"Keresett megyében élők száma: {megye_lakossag} fő")
+                         print("----------------")
+                         print(f"Városban élők száma: {varosban_elo_lakossag} fő")
+                         print()
+                         lista2.remove(t)
+                         
+ 
+        
+            
 
+
+            
 def telepules_tipusok(lista):
     while True:
         print()
