@@ -1,6 +1,10 @@
-import os
+import sys
 from colorama import Fore, Back, Style
 import string
+
+def clear_screen():
+    sys.stdout.write("\033[H\033[2J\033[3J")
+    sys.stdout.flush()
 
 def fajlolvasas():
     lista = []
@@ -22,6 +26,7 @@ def fajlolvasas():
 
 def kilepes():
     print()
+    clear_screen()
     print(Fore.GREEN + "Visszatérés a főmenübe...")
     print(Style.RESET_ALL)
     
@@ -39,6 +44,7 @@ def main():
 
         if valasztas.upper() == "X":
             print()
+            clear_screen()
             print(Fore.GREEN + "A prgogramból való kilépés megtörtént." + Style.RESET_ALL)
             break
             
@@ -108,6 +114,7 @@ def telepules_tipusok(lista):
             tipusok.append(tipus)
 
     while True:
+        clear_screen()
         print()
         print(Fore.BLUE + "Település típusok:" + Style.RESET_ALL)
         for tipus in tipusok:
@@ -121,6 +128,7 @@ def telepules_tipusok(lista):
             kilepes()
             break
         else:
+            clear_screen()
             talalat_tipus = [tipus["telepules_tipusa"] for tipus in tipusok if tipus["betujel"] == valasztott_tipus]
 
             if not talalat_tipus:
@@ -139,7 +147,7 @@ def telepules_tipusok(lista):
                 end_index = start_index + lepes
                 aktualis_oldal = talalatok[start_index:end_index]
 
-                print(f"--- Találatok ({keresett_tipus}) {start_index + 1}-{min(end_index, len(talalatok))} ---")
+                print(Fore.BLUE + f"--- Találatok ({keresett_tipus}) {start_index + 1}-{min(end_index, len(talalatok))} ---" + Style.RESET_ALL)
                 for telepules in aktualis_oldal:
                     lakossag = telepules["ferfi"] + telepules["no"]
                     print(f"{telepules['telepules']} - {telepules['tipus']} - {lakossag} fő")
@@ -147,17 +155,18 @@ def telepules_tipusok(lista):
                 print()
                 gomb = input("[ENTER] -> Következő 4 | [B] -> Előző 4 | [X] -> Vissza a típusokhoz: ").strip().lower()
                 print()
+                clear_screen()
 
                 if gomb == "":
                     if end_index < len(talalatok):
                         start_index += lepes
                     else:
-                        print("Nincs több találat (ez az utolsó oldal).\n")
+                        print(Fore.RED + "Nincs több találat (ez az utolsó oldal)." + Style.RESET_ALL)
                 elif gomb == "b":
                     if start_index >= lepes:
                         start_index -= lepes
                     else:
-                        print("Ez az első oldal.\n")
+                        print(Back.BLUE + "Ez az első oldal.\n" + Style.RESET_ALL)
                 elif gomb == "x":
                     break
 
