@@ -18,7 +18,6 @@ def fajlolvasas():
             }
             lista.append(k)
 
-
     return lista
 
 def kilepes():
@@ -56,40 +55,38 @@ def main():
 
 
 def megye_adatai(lista):
-    megyekod_input = input("Kérem adja meg a keresett megye kódját (kilépéshez - X): ").strip().upper()
-    if megyekod_input == "X":
-        kilepes()
-        
-    else:
-        telepules_szam = 0
-        megye_lakossag = 0
-        varosban_elo_lakossag = 0
-
-        for t in lista:
-            if t["megyekod"] == megyekod_input:
-                telepules_szam += 1
-                megye_lakossag += (t["ferfi"] + t["no"])
-                if "város" in t["tipus"] or t["tipus"] == "vármegye székhely":
-                    varosban_elo_lakossag += (t["ferfi"] + t["no"])
-
-        
-        if telepules_szam == 0:
-            print()
-            print(Fore.RED + "A megadott megyekód nem található. Kérem próbálja újra." + Style.RESET_ALL)
-            print()
-            megye_adatai(lista)
+    while True:
+        megyekod_input = input("Kérem adja meg a keresett megye kódját (kilépéshez - X): ").strip().upper()
+        if megyekod_input == "X":
+            kilepes()
+            break
         else:
-            print()
-            print("----------------")
-            print(f"Települések száma a keresett megyében: {telepules_szam} db")
-            print("----------------")
-            print(f"Keresett megyében élők száma: {megye_lakossag} fő")
-            print("----------------")
-            print(f"Városban élők száma: {varosban_elo_lakossag} fő")
-            print()
+            telepules_szam = 0
+            megye_lakossag = 0
+            varosban_elo_lakossag = 0
 
-            megye_adatai(lista)
+            for t in lista:
+                if t["megyekod"] == megyekod_input:
+                    telepules_szam += 1
+                    megye_lakossag += (t["ferfi"] + t["no"])
+                    if "város" in t["tipus"] or t["tipus"] == "vármegye székhely":
+                        varosban_elo_lakossag += (t["ferfi"] + t["no"])
+
             
+            if telepules_szam == 0:
+                print()
+                print(Fore.RED + "A megadott megyekód nem található. Kérem próbálja újra." + Style.RESET_ALL)
+                print()
+            else:
+                print()
+                print("----------------")
+                print(f"Települések száma a keresett megyében: {telepules_szam} db")
+                print("----------------")
+                print(f"Keresett megyében élők száma: {megye_lakossag} fő")
+                print("----------------")
+                print(f"Városban élők száma: {varosban_elo_lakossag} fő")
+                print()
+
                                
 def telepules_tipusok(lista):
     def betuk():
@@ -99,7 +96,6 @@ def telepules_tipusok(lista):
         return betuk_keszlet
             
     betuk_listaja = betuk()
-
 
     tipusok = []
     for t in lista:
@@ -111,35 +107,59 @@ def telepules_tipusok(lista):
             betuk_listaja.remove(betuk_listaja[0])
             tipusok.append(tipus)
 
-    print()
-    print(Fore.BLUE + "Település típusok:" + Style.RESET_ALL)
-    for tipus in tipusok:
-        print(f"[{tipus['betujel']}] {tipus['telepules_tipusa']}")
-        
-
-    print()
-    valasztott_tipus = input("Kérem adja meg a keresett település típusát (kilépéshez - X): ").strip().lower()
-    print()
-    if valasztott_tipus == "x":
-        kilepes()
-        return
-    else:
-        keresett_tipus = [tipus["telepules_tipusa"] for tipus in tipusok if tipus["betujel"] == valasztott_tipus][0]
-
-        if valasztott_tipus not in [tipus["betujel"] for tipus in tipusok]:
-            print(Fore.RED + "Érvénytelen parancs. Kérem próbálja újra." + Style.RESET_ALL)
-            print()
-            telepules_tipusok(lista)
-            return
-
-        if keresett_tipus is not None:
-            for telepules in lista:
-                if telepules["tipus"] == keresett_tipus:
-                    lakossag = telepules["ferfi"] + telepules["no"]
-                    print(
-                        f"{telepules['telepules']} - {telepules['tipus']} - {lakossag} fő")
-
-            telepules_tipusok(lista)
+    while True:
+        print()
+        print(Fore.BLUE + "Település típusok:" + Style.RESET_ALL)
+        for tipus in tipusok:
+            print(f"[{tipus['betujel']}] {tipus['telepules_tipusa']}")
             
+
+        print()
+        valasztott_tipus = input("Kérem adja meg a keresett település típusát (kilépéshez - X): ").strip().lower()
+        print()
+        if valasztott_tipus == "x":
+            kilepes()
+            break
+        else:
+            talalat_tipus = [tipus["telepules_tipusa"] for tipus in tipusok if tipus["betujel"] == valasztott_tipus]
+
+            if not talalat_tipus:
+                print(Fore.RED + "Érvénytelen parancs. Kérem próbálja újra." + Style.RESET_ALL)
+                print()
+                continue
+
+            keresett_tipus = talalat_tipus[0]
+
+            talalatok = [t for t in lista if t["tipus"] == keresett_tipus]
+
+            start_index = 0
+            lepes = 4
+
+            while True:
+                end_index = start_index + lepes
+                aktualis_oldal = talalatok[start_index:end_index]
+
+                print(f"--- Találatok ({keresett_tipus}) {start_index + 1}-{min(end_index, len(talalatok))} ---")
+                for telepules in aktualis_oldal:
+                    lakossag = telepules["ferfi"] + telepules["no"]
+                    print(f"{telepules['telepules']} - {telepules['tipus']} - {lakossag} fő")
+
+                print()
+                gomb = input("[ENTER] -> Következő 4 | [B] -> Előző 4 | [X] -> Vissza a típusokhoz: ").strip().lower()
+                print()
+
+                if gomb == "":
+                    if end_index < len(talalatok):
+                        start_index += lepes
+                    else:
+                        print("Nincs több találat (ez az utolsó oldal).\n")
+                elif gomb == "b":
+                    if start_index >= lepes:
+                        start_index -= lepes
+                    else:
+                        print("Ez az első oldal.\n")
+                elif gomb == "x":
+                    break
+
 
 main()
